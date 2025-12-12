@@ -1,0 +1,144 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D
+ItemGUID=4C52D254-EDC1-4507-B348-3DC05D691778
+ItemHRID=
+RevisionGUID=D7BE6E27-E335-463E-8DA9-860C323266AC
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=
+Description=
+TargetOutputMedium=Assembly Data
+VariantName=Master
+VariantScope=2
+CurrentConfigurationName=Assembly Master
+TargetPrinter=Krakul-Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Print Job
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium2=PDF
+OutputMedium2_Type=Publish
+OutputMedium3=Assembly Data
+OutputMedium3_Type=GeneratedFiles
+OutputType1=BOM_PartType
+OutputName1=BOM
+OutputCategory1=Report
+OutputDocumentPath1=[ActiveBOM Document]
+OutputVariantName1=
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=0
+OutputEnabled1_OutputMedium3=2
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=True|IncludeVaultData=True|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=True|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=149AB3FE-7166-46E8-BF6C-F7A47B5F1A6D|TemplateItemGuid=318A1599-8C99-4F6D-87FB-7B6F719AFF15|TemplateRevisionGuid=3AEA1772-42A3-433E-8F1B-F8CE3D3FA06D|BatchMode=5|FormWidth=2122|FormHeight=1221|SupplierProdQty=10|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=EUR|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=
+Configuration1_Name4=PCBDocument
+Configuration1_Item4=FileName=BaCGCU_v0.PcbDoc
+Configuration1_Name5=PCBDocument2
+Configuration1_Item5=FileName=[PCB Document 1]
+Configuration1_Name6=SortOrder
+Configuration1_Item6=Description=Up
+Configuration1_Name7=VisibleOrder
+Configuration1_Item7=Line #=101|Comment=201|Description=4057|Designator=9430|Quantity=101|Manufacturer 1=158|Manufacturer Part Number 1=206|Manufacturer Lifecycle 1=194|Supplier 1=96|Supplier Part Number 1=328|Supplier Unit Price 1=170|Supplier Subtotal 1=164|Part number=270|Sch comment=122|Supplier Currency 1=153|Supplier Order Qty 1=124|Supplier Stock 1=102|Supplier Subtotal per Board 1=5072
+Configuration1_Name8=VisibleOrder_Base
+Configuration1_Item8=Line #=101|Comment=201|Description=4057|Designator=9430|Quantity=101|Manufacturer 1=158|Manufacturer Part Number 1=206|Manufacturer Lifecycle 1=194|Supplier 1=96|Supplier Part Number 1=328|Supplier Unit Price 1=170|Supplier Subtotal 1=164|Part number=270|Sch comment=122|Supplier Currency 1=153|Supplier Order Qty 1=124|Supplier Stock 1=102|Supplier Subtotal per Board 1=5072
+Configuration1_Name9=VisibleOrder_Consolidated
+Configuration1_Item9=Line #=100|Comment=100|Description=100|Designator=100|Quantity=100|Quantity@Manufacture=100|Price@Manufacture=100|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139|Manufacturer 2=100|Manufacturer Part Number 2=100|Manufacturer Lifecycle 2=100|Supplier 2=100|Supplier Part Number 2=100|Supplier Unit Price 2=100|Supplier Subtotal 2=100|Manufacturer 3=100|Manufacturer Part Number 3=100|Manufacturer Lifecycle 3=100|Supplier 3=100|Supplier Part Number 3=100|Supplier Unit Price 3=100|Supplier Subtotal 3=100|Manufacturer 4=100|Manufacturer Part Number 4=100|Manufacturer Lifecycle 4=100|Supplier 4=100|Supplier Part Number 4=100|Supplier Unit Price 4=100|Supplier Subtotal 4=100|Manufacturer 5=100|Manufacturer Part Number 5=100|Manufacturer Lifecycle 5=100|Supplier 5=100|Supplier Part Number 5=100|Supplier Unit Price 5=100|Supplier Subtotal 5=100|Manufacturer 6=100|Manufacturer Part Number 6=100|Manufacturer Lifecycle 6=100|Supplier 6=100|Supplier Part Number 6=100|Supplier Unit Price 6=100|Supplier Subtotal 6=100|Manufacturer 7=100|Manufacturer Part Number 7=100|Manufacturer Lifecycle 7=100|Supplier 7=100|Supplier Part Number 7=100|Supplier Unit Price 7=100|Supplier Subtotal 7=100|Manufacturer 8=100|Manufacturer Part Number 8=100|Manufacturer Lifecycle 8=100|Supplier 8=100|Supplier Part Number 8=100|Supplier Unit Price 8=100|Supplier Subtotal 8=100|Manufacturer 9=100|Manufacturer Part Number 9=100|Manufacturer Lifecycle 9=100|Supplier 9=100|Supplier Part Number 9=100|Supplier Unit Price 9=100|Supplier Subtotal 9=100|Manufacturer 10=100|Manufacturer Part Number 10=100|Manufacturer Lifecycle 10=100|Supplier 10=100|Supplier Part Number 10=100|Supplier Unit Price 10=100|Supplier Subtotal 10=100|Manufacturer 11=100|Manufacturer Part Number 11=100|Manufacturer Lifecycle 11=100|Supplier 11=100|Supplier Part Number 11=100|Supplier Unit Price 11=100|Supplier Subtotal 11=100|Manufacturer 12=100|Manufacturer Part Number 12=100|Manufacturer Lifecycle 12=100|Supplier 12=100|Supplier Part Number 12=100|Supplier Unit Price 12=100|Supplier Subtotal 12=100|Manufacturer 13=100|Manufacturer Part Number 13=100|Manufacturer Lifecycle 13=100|Supplier 13=100|Supplier Part Number 13=100|Supplier Unit Price 13=100|Supplier Subtotal 13=100|Manufacturer 14=100|Manufacturer Part Number 14=100|Manufacturer Lifecycle 14=100|Supplier 14=100|Supplier Part Number 14=100|Supplier Unit Price 14=100|Supplier Subtotal 14=100|Manufacturer 15=100|Manufacturer Part Number 15=100|Manufacturer Lifecycle 15=100|Supplier 15=100|Supplier Part Number 15=100|Supplier Unit Price 15=100|Supplier Subtotal 15=100|Manufacturer 16=100|Manufacturer Part Number 16=100|Manufacturer Lifecycle 16=100|Supplier 16=100|Supplier Part Number 16=100|Supplier Unit Price 16=100|Supplier Subtotal 16=100|Manufacturer 17=100|Manufacturer Part Number 17=100|Manufacturer Lifecycle 17=100|Supplier 17=100|Supplier Part Number 17=100|Supplier Unit Price 17=100|Supplier Subtotal 17=100|Manufacturer 18=100|Manufacturer Part Number 18=100|Manufacturer Lifecycle 18=100|Supplier 18=100|Supplier Part Number 18=100|Supplier Unit Price 18=100|Supplier Subtotal 18=100|Manufacturer 19=100|Manufacturer Part Number 19=100|Manufacturer Lifecycle 19=100|Supplier 19=100|Supplier Part Number 19=100|Supplier Unit Price 19=100|Supplier Subtotal 19=100|Manufacturer 20=100|Manufacturer Part Number 20=100|Manufacturer Lifecycle 20=100|Supplier 20=100|Supplier Part Number 20=100|Supplier Unit Price 20=100|Supplier Subtotal 20=100
+Configuration1_Name10=VisibleOrder_Flat
+Configuration1_Item10=Line #=100|Comment=100|Description=100|Designator=100|Manufacturer 1=119|Manufacturer Part Number 1=186|Manufacturer Lifecycle 1=164|Supplier 1=92|Supplier Part Number 1=159|Supplier Unit Price 1=144|Supplier Subtotal 1=139|Manufacturer 2=100|Manufacturer Part Number 2=100|Manufacturer Lifecycle 2=100|Supplier 2=100|Supplier Part Number 2=100|Supplier Unit Price 2=100|Supplier Subtotal 2=100|Manufacturer 3=100|Manufacturer Part Number 3=100|Manufacturer Lifecycle 3=100|Supplier 3=100|Supplier Part Number 3=100|Supplier Unit Price 3=100|Supplier Subtotal 3=100|Manufacturer 4=100|Manufacturer Part Number 4=100|Manufacturer Lifecycle 4=100|Supplier 4=100|Supplier Part Number 4=100|Supplier Unit Price 4=100|Supplier Subtotal 4=100|Manufacturer 5=100|Manufacturer Part Number 5=100|Manufacturer Lifecycle 5=100|Supplier 5=100|Supplier Part Number 5=100|Supplier Unit Price 5=100|Supplier Subtotal 5=100|Manufacturer 6=100|Manufacturer Part Number 6=100|Manufacturer Lifecycle 6=100|Supplier 6=100|Supplier Part Number 6=100|Supplier Unit Price 6=100|Supplier Subtotal 6=100|Manufacturer 7=100|Manufacturer Part Number 7=100|Manufacturer Lifecycle 7=100|Supplier 7=100|Supplier Part Number 7=100|Supplier Unit Price 7=100|Supplier Subtotal 7=100|Manufacturer 8=100|Manufacturer Part Number 8=100|Manufacturer Lifecycle 8=100|Supplier 8=100|Supplier Part Number 8=100|Supplier Unit Price 8=100|Supplier Subtotal 8=100|Manufacturer 9=100|Manufacturer Part Number 9=100|Manufacturer Lifecycle 9=100|Supplier 9=100|Supplier Part Number 9=100|Supplier Unit Price 9=100|Supplier Subtotal 9=100|Manufacturer 10=100|Manufacturer Part Number 10=100|Manufacturer Lifecycle 10=100|Supplier 10=100|Supplier Part Number 10=100|Supplier Unit Price 10=100|Supplier Subtotal 10=100|Manufacturer 11=100|Manufacturer Part Number 11=100|Manufacturer Lifecycle 11=100|Supplier 11=100|Supplier Part Number 11=100|Supplier Unit Price 11=100|Supplier Subtotal 11=100|Manufacturer 12=100|Manufacturer Part Number 12=100|Manufacturer Lifecycle 12=100|Supplier 12=100|Supplier Part Number 12=100|Supplier Unit Price 12=100|Supplier Subtotal 12=100|Manufacturer 13=100|Manufacturer Part Number 13=100|Manufacturer Lifecycle 13=100|Supplier 13=100|Supplier Part Number 13=100|Supplier Unit Price 13=100|Supplier Subtotal 13=100|Manufacturer 14=100|Manufacturer Part Number 14=100|Manufacturer Lifecycle 14=100|Supplier 14=100|Supplier Part Number 14=100|Supplier Unit Price 14=100|Supplier Subtotal 14=100|Manufacturer 15=100|Manufacturer Part Number 15=100|Manufacturer Lifecycle 15=100|Supplier 15=100|Supplier Part Number 15=100|Supplier Unit Price 15=100|Supplier Subtotal 15=100|Manufacturer 16=100|Manufacturer Part Number 16=100|Manufacturer Lifecycle 16=100|Supplier 16=100|Supplier Part Number 16=100|Supplier Unit Price 16=100|Supplier Subtotal 16=100|Manufacturer 17=100|Manufacturer Part Number 17=100|Manufacturer Lifecycle 17=100|Supplier 17=100|Supplier Part Number 17=100|Supplier Unit Price 17=100|Supplier Subtotal 17=100|Manufacturer 18=100|Manufacturer Part Number 18=100|Manufacturer Lifecycle 18=100|Supplier 18=100|Supplier Part Number 18=100|Supplier Unit Price 18=100|Supplier Subtotal 18=100|Manufacturer 19=100|Manufacturer Part Number 19=100|Manufacturer Lifecycle 19=100|Supplier 19=100|Supplier Part Number 19=100|Supplier Unit Price 19=100|Supplier Subtotal 19=100|Manufacturer 20=100|Manufacturer Part Number 20=100|Manufacturer Lifecycle 20=100|Supplier 20=100|Supplier Part Number 20=100|Supplier Unit Price 20=100|Supplier Subtotal 20=100
+OutputType2=Pick Place
+OutputName2=PnP
+OutputCategory2=Assembly
+OutputDocumentPath2=KR-Df-01-EL-00.PcbDoc
+OutputVariantName2=
+OutputEnabled2=1
+OutputEnabled2_OutputMedium1=0
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=1
+OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=,|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:5|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:7|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:0|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:1|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:14|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:4|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:8|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#18=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#19=Name:Receivers Per Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#20=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#21=Name:Bus Fault Voltage(V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#22=Name:Supplier 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#23=Name:Code_JEDEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#24=Name:Supplier 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#25=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#26=Name:ICC(Max)(mA),Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#27=Name:Part number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#28=Name:Supplier 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#29=Name:Low Power Mode,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#30=Name:Supplier 5,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#31=Name:Transient Pulse Protection(V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#32=Name:Supplier Part Number 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#33=Name:Supplier Part Number 5,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#34=Name:Capacitance tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#35=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#36=Name:Supplier Part Number 4,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#37=Name:PackageDescription,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#38=Name:SubFamily,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#39=Name:Eco-Plan,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#40=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#41=Name:Drivers Per Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#42=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#43=Name:Isolated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#44=Name:Part number',Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#45=Name:ESR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#46=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#47=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#48=Name:Supply Voltage(s)(V),Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#49=Name:DatasheetVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#50=Name:PackageVersion,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#51=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#52=Name:Supplier Part Number 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|DocumentPath=C:\Users\Public\Documents\Altium\STS_controller_HOST\STS_controller_HOST.PcbDoc
+OutputType3=PCBDrawing
+OutputName3=Draftsman
+OutputCategory3=Documentation
+OutputDocumentPath3=KR-Df-01-EL-00_ASSY.PCBDwf
+OutputVariantName3=
+OutputEnabled3=0
+OutputEnabled3_OutputMedium1=0
+OutputEnabled3_OutputMedium2=1
+OutputEnabled3_OutputMedium3=0
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[PublishSettings]
+OutputFilePath2=C:\Users\Public\Documents\Altium\STS_controller_HOST\Project Outputs for STS_controller_HOST\Assembly\
+ReleaseManaged2=1
+OutputBasePath2=
+OutputPathMedia2=
+OutputPathMediaValue2=Assembly
+OutputPathOutputer2=
+OutputPathOutputerPrefix2=
+OutputPathOutputerValue2==ContainerType
+OutputFileName2=Assembly.PDF
+OutputFileNameMulti2== Assembly_Documentation + '_' + GlobalProjectTitle+ '_v' +GlobalProjectRevision + '_' + (CurrentDate)
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2=
+OpenOutput2=1
+PromptOverwrite2=1
+PublishMethod2=1
+ZoomLevel2=50
+FitSCHPrintSizeToDoc2=1
+FitPCBPrintSizeToDoc2=1
+GenerateNetsInfo2=1
+MarkPins2=1
+MarkNetLabels2=1
+MarkPortsId2=1
+GenerateTOC2=1
+ShowComponentParameters2=1
+GlobalBookmarks2=0
+PDFACompliance2=Disabled
+PDFVersion2=Default
+OutputFilePath3=C:\Users\Public\Documents\Altium\KR-Df-01-EL-00\Project Outputs for KR-Df-01-EL-00\
+ReleaseManaged3=1
+OutputBasePath3=
+OutputPathMedia3=
+OutputPathMediaValue3=Assembly
+OutputPathOutputer3=[Output Name]
+OutputPathOutputerPrefix3=
+OutputPathOutputerValue3=
+OutputFileName3=
+OutputFileNameMulti3==OutputName + '_' + GlobalProjectTitle+ '_v' +GlobalProjectRevision + '_' + (CurrentDate)
+UseOutputNameForMulti3=0
+OutputFileNameSpecial3=
+OpenOutput3=1
+
+[GeneratedFilesSettings]
+RelativeOutputPath2=C:\Users\Public\Documents\Altium\STS_controller_HOST\Project Outputs for STS_controller_HOST\Assembly\
+OpenOutputs2=1
+RelativeOutputPath3=C:\Users\Public\Documents\Altium\KR-Df-01-EL-00\Project Outputs for KR-Df-01-EL-00\
+OpenOutputs3=1
+AddToProject3=1
+TimestampFolder3=0
+UseOutputName3=0
+OpenODBOutput3=0
+OpenGerberOutput3=0
+OpenNCDrillOutput3=0
+OpenIPCOutput3=0
+EnableReload3=0
+
