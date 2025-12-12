@@ -1,0 +1,5 @@
+.settings
+.mxproject
+Debug/
+Release/
+Core/Inc/build_info.h
