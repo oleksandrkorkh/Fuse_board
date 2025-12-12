@@ -1,0 +1,2278 @@
+2025-04-17 11:11:31,720 - INFO - Fuseboard API connected
+2025-04-17 11:11:33,520 - INFO - Port 0 configuration:
+2025-04-17 11:11:33,520 - INFO - Startup state 0
+2025-04-17 11:11:33,520 - INFO - Startup delay 0
+2025-04-17 11:11:33,520 - INFO - Forward current limit 5000
+2025-04-17 11:11:33,520 - INFO - Reverse current limit 500
+2025-04-17 11:11:33,520 - INFO - Current limit activation time 200
+2025-04-17 11:11:33,521 - INFO - Recovery mode 0
+2025-04-17 11:11:33,521 - INFO - Reset off time 0
+2025-04-17 11:11:33,521 - INFO - Recovery off time 0
+2025-04-17 11:11:35,320 - INFO - Port 1 configuration:
+2025-04-17 11:11:35,320 - INFO - Startup state 0
+2025-04-17 11:11:35,320 - INFO - Startup delay 0
+2025-04-17 11:11:35,320 - INFO - Forward current limit 5000
+2025-04-17 11:11:35,320 - INFO - Reverse current limit 500
+2025-04-17 11:11:35,320 - INFO - Current limit activation time 200
+2025-04-17 11:11:35,320 - INFO - Recovery mode 0
+2025-04-17 11:11:35,321 - INFO - Reset off time 0
+2025-04-17 11:11:35,321 - INFO - Recovery off time 0
+2025-04-17 11:11:37,120 - INFO - Port 2 configuration:
+2025-04-17 11:11:37,120 - INFO - Startup state 0
+2025-04-17 11:11:37,121 - INFO - Startup delay 0
+2025-04-17 11:11:37,121 - INFO - Forward current limit 5000
+2025-04-17 11:11:37,121 - INFO - Reverse current limit 500
+2025-04-17 11:11:37,121 - INFO - Current limit activation time 200
+2025-04-17 11:11:37,122 - INFO - Recovery mode 0
+2025-04-17 11:11:37,123 - INFO - Reset off time 0
+2025-04-17 11:11:37,123 - INFO - Recovery off time 0
+2025-04-17 11:11:38,920 - INFO - Port 3 configuration:
+2025-04-17 11:11:38,920 - INFO - Startup state 0
+2025-04-17 11:11:38,920 - INFO - Startup delay 0
+2025-04-17 11:11:38,921 - INFO - Forward current limit 5000
+2025-04-17 11:11:38,921 - INFO - Reverse current limit 500
+2025-04-17 11:11:38,921 - INFO - Current limit activation time 200
+2025-04-17 11:11:38,922 - INFO - Recovery mode 0
+2025-04-17 11:11:38,922 - INFO - Reset off time 0
+2025-04-17 11:11:38,922 - INFO - Recovery off time 0
+2025-04-17 11:11:40,720 - INFO - Port 4 configuration:
+2025-04-17 11:11:40,720 - INFO - Startup state 0
+2025-04-17 11:11:40,721 - INFO - Startup delay 0
+2025-04-17 11:11:40,721 - INFO - Forward current limit 10000
+2025-04-17 11:11:40,722 - INFO - Reverse current limit 500
+2025-04-17 11:11:40,722 - INFO - Current limit activation time 200
+2025-04-17 11:11:40,723 - INFO - Recovery mode 0
+2025-04-17 11:11:40,723 - INFO - Reset off time 0
+2025-04-17 11:11:40,724 - INFO - Recovery off time 0
+2025-04-17 11:11:42,520 - INFO - Port 5 configuration:
+2025-04-17 11:11:42,520 - INFO - Startup state 0
+2025-04-17 11:11:42,520 - INFO - Startup delay 0
+2025-04-17 11:11:42,521 - INFO - Forward current limit 10000
+2025-04-17 11:11:42,521 - INFO - Reverse current limit 500
+2025-04-17 11:11:42,521 - INFO - Current limit activation time 200
+2025-04-17 11:11:42,522 - INFO - Recovery mode 0
+2025-04-17 11:11:42,522 - INFO - Reset off time 0
+2025-04-17 11:11:42,523 - INFO - Recovery off time 0
+2025-04-17 11:11:44,320 - INFO - Port 6 configuration:
+2025-04-17 11:11:44,321 - INFO - Startup state 0
+2025-04-17 11:11:44,321 - INFO - Startup delay 0
+2025-04-17 11:11:44,322 - INFO - Forward current limit 15000
+2025-04-17 11:11:44,322 - INFO - Reverse current limit 500
+2025-04-17 11:11:44,323 - INFO - Current limit activation time 200
+2025-04-17 11:11:44,323 - INFO - Recovery mode 0
+2025-04-17 11:11:44,323 - INFO - Reset off time 0
+2025-04-17 11:11:44,324 - INFO - Recovery off time 0
+2025-04-17 11:11:46,120 - INFO - Port 7 configuration:
+2025-04-17 11:11:46,120 - INFO - Startup state 0
+2025-04-17 11:11:46,121 - INFO - Startup delay 0
+2025-04-17 11:11:46,121 - INFO - Forward current limit 15000
+2025-04-17 11:11:46,122 - INFO - Reverse current limit 500
+2025-04-17 11:11:46,122 - INFO - Current limit activation time 200
+2025-04-17 11:11:46,123 - INFO - Recovery mode 0
+2025-04-17 11:11:46,123 - INFO - Reset off time 0
+2025-04-17 11:11:46,124 - INFO - Recovery off time 0
+2025-04-17 11:11:46,124 - INFO - loop counter = 1
+2025-04-17 11:12:04,519 - INFO - Board uptime 5434
+2025-04-17 11:12:04,520 - INFO - loop counter = 2
+2025-04-17 11:12:22,919 - INFO - Board uptime 5452
+2025-04-17 11:12:22,920 - INFO - loop counter = 3
+2025-04-17 11:12:41,319 - INFO - Board uptime 5471
+2025-04-17 11:12:41,320 - INFO - loop counter = 4
+2025-04-17 11:12:59,719 - INFO - Board uptime 5489
+2025-04-17 11:12:59,719 - INFO - loop counter = 5
+2025-04-17 11:13:18,119 - INFO - Board uptime 5507
+2025-04-17 11:13:18,119 - INFO - loop counter = 6
+2025-04-17 11:13:36,519 - INFO - Board uptime 5526
+2025-04-17 11:13:36,519 - INFO - loop counter = 7
+2025-04-17 11:13:54,918 - INFO - Board uptime 5544
+2025-04-17 11:13:54,919 - INFO - loop counter = 8
+2025-04-17 11:14:13,318 - INFO - Board uptime 5563
+2025-04-17 11:14:13,319 - INFO - loop counter = 9
+2025-04-17 11:14:31,718 - INFO - Board uptime 5581
+2025-04-17 11:14:31,719 - INFO - loop counter = 10
+2025-04-17 11:14:50,118 - INFO - Board uptime 5599
+2025-04-17 11:14:50,118 - INFO - loop counter = 11
+2025-04-17 11:15:08,518 - INFO - Board uptime 5618
+2025-04-17 11:15:08,518 - INFO - loop counter = 12
+2025-04-17 11:15:26,918 - INFO - Board uptime 5636
+2025-04-17 11:15:26,918 - INFO - loop counter = 13
+2025-04-17 11:15:45,317 - INFO - Board uptime 5655
+2025-04-17 11:15:45,318 - INFO - loop counter = 14
+2025-04-17 11:16:03,717 - INFO - Board uptime 5673
+2025-04-17 11:16:03,718 - INFO - loop counter = 15
+2025-04-17 11:16:22,117 - INFO - Board uptime 5691
+2025-04-17 11:16:22,118 - INFO - loop counter = 16
+2025-04-17 11:16:40,517 - INFO - Board uptime 5710
+2025-04-17 11:16:40,517 - INFO - loop counter = 17
+2025-04-17 11:16:58,917 - INFO - Board uptime 5728
+2025-04-17 11:16:58,917 - INFO - loop counter = 18
+2025-04-17 11:17:17,317 - INFO - Board uptime 5747
+2025-04-17 11:17:17,317 - INFO - loop counter = 19
+2025-04-17 11:17:35,716 - INFO - Board uptime 5765
+2025-04-17 11:17:35,717 - INFO - loop counter = 20
+2025-04-17 11:17:54,116 - INFO - Board uptime 5783
+2025-04-17 11:17:54,117 - INFO - loop counter = 21
+2025-04-17 11:18:12,516 - INFO - Board uptime 5802
+2025-04-17 11:18:12,517 - INFO - loop counter = 22
+2025-04-17 11:18:30,916 - INFO - Board uptime 5820
+2025-04-17 11:18:30,916 - INFO - loop counter = 23
+2025-04-17 11:18:49,316 - INFO - Board uptime 5839
+2025-04-17 11:18:49,316 - INFO - loop counter = 24
+2025-04-17 11:19:07,716 - INFO - Board uptime 5857
+2025-04-17 11:19:07,716 - INFO - loop counter = 25
+2025-04-17 11:19:26,115 - INFO - Board uptime 5875
+2025-04-17 11:19:26,116 - INFO - loop counter = 26
+2025-04-17 11:19:44,515 - INFO - Board uptime 5894
+2025-04-17 11:19:44,516 - INFO - loop counter = 27
+2025-04-17 11:20:02,915 - INFO - Board uptime 5912
+2025-04-17 11:20:02,916 - INFO - loop counter = 28
+2025-04-17 11:20:21,315 - INFO - Board uptime 5931
+2025-04-17 11:20:21,315 - INFO - loop counter = 29
+2025-04-17 11:20:39,715 - INFO - Board uptime 5949
+2025-04-17 11:20:39,715 - INFO - loop counter = 30
+2025-04-17 11:20:58,115 - INFO - Board uptime 5967
+2025-04-17 11:20:58,115 - INFO - loop counter = 31
+2025-04-17 11:21:16,514 - INFO - Board uptime 5986
+2025-04-17 11:21:16,515 - INFO - loop counter = 32
+2025-04-17 11:21:34,914 - INFO - Board uptime 6004
+2025-04-17 11:21:34,915 - INFO - loop counter = 33
+2025-04-17 11:21:53,314 - INFO - Board uptime 6023
+2025-04-17 11:21:53,315 - INFO - loop counter = 34
+2025-04-17 11:22:11,714 - INFO - Board uptime 6041
+2025-04-17 11:22:11,714 - INFO - loop counter = 35
+2025-04-17 11:22:30,114 - INFO - Board uptime 6059
+2025-04-17 11:22:30,114 - INFO - loop counter = 36
+2025-04-17 11:22:48,514 - INFO - Board uptime 6078
+2025-04-17 11:22:48,514 - INFO - loop counter = 37
+2025-04-17 11:23:06,913 - INFO - Board uptime 6096
+2025-04-17 11:23:06,914 - INFO - loop counter = 38
+2025-04-17 11:23:25,313 - INFO - Board uptime 6115
+2025-04-17 11:23:25,314 - INFO - loop counter = 39
+2025-04-17 11:23:43,713 - INFO - Board uptime 6133
+2025-04-17 11:23:43,714 - INFO - loop counter = 40
+2025-04-17 11:24:02,113 - INFO - Board uptime 6151
+2025-04-17 11:24:02,113 - INFO - loop counter = 41
+2025-04-17 11:24:20,513 - INFO - Board uptime 6170
+2025-04-17 11:24:20,513 - INFO - loop counter = 42
+2025-04-17 11:24:38,912 - INFO - Board uptime 6188
+2025-04-17 11:24:38,913 - INFO - loop counter = 43
+2025-04-17 11:24:57,312 - INFO - Board uptime 6207
+2025-04-17 11:24:57,313 - INFO - loop counter = 44
+2025-04-17 11:25:15,712 - INFO - Board uptime 6225
+2025-04-17 11:25:15,713 - INFO - loop counter = 45
+2025-04-17 11:25:34,112 - INFO - Board uptime 6243
+2025-04-17 11:25:34,113 - INFO - loop counter = 46
+2025-04-17 11:25:52,512 - INFO - Board uptime 6262
+2025-04-17 11:25:52,512 - INFO - loop counter = 47
+2025-04-17 11:26:10,912 - INFO - Board uptime 6280
+2025-04-17 11:26:10,912 - INFO - loop counter = 48
+2025-04-17 11:26:29,312 - INFO - Board uptime 6299
+2025-04-17 11:26:29,312 - INFO - loop counter = 49
+2025-04-17 11:26:47,711 - INFO - Board uptime 6317
+2025-04-17 11:26:47,712 - INFO - loop counter = 50
+2025-04-17 11:27:06,111 - INFO - Board uptime 6335
+2025-04-17 11:27:06,112 - INFO - loop counter = 51
+2025-04-17 11:27:24,511 - INFO - Board uptime 6354
+2025-04-17 11:27:24,512 - INFO - loop counter = 52
+2025-04-17 11:27:42,911 - INFO - Board uptime 6372
+2025-04-17 11:27:42,911 - INFO - loop counter = 53
+2025-04-17 11:28:01,311 - INFO - Board uptime 6391
+2025-04-17 11:28:01,311 - INFO - loop counter = 54
+2025-04-17 11:28:19,710 - INFO - Board uptime 6409
+2025-04-17 11:28:19,711 - INFO - loop counter = 55
+2025-04-17 11:28:38,110 - INFO - Board uptime 6427
+2025-04-17 11:28:38,111 - INFO - loop counter = 56
+2025-04-17 11:28:56,510 - INFO - Board uptime 6446
+2025-04-17 11:28:56,511 - INFO - loop counter = 57
+2025-04-17 11:29:14,910 - INFO - Board uptime 6464
+2025-04-17 11:29:14,911 - INFO - loop counter = 58
+2025-04-17 11:29:33,311 - INFO - Board uptime 6483
+2025-04-17 11:29:33,311 - INFO - loop counter = 59
+2025-04-17 11:29:51,711 - INFO - Board uptime 6501
+2025-04-17 11:29:51,711 - INFO - loop counter = 60
+2025-04-17 11:30:10,110 - INFO - Board uptime 6519
+2025-04-17 11:30:10,111 - INFO - loop counter = 61
+2025-04-17 11:30:28,510 - INFO - Board uptime 6538
+2025-04-17 11:30:28,511 - INFO - loop counter = 62
+2025-04-17 11:30:46,910 - INFO - Board uptime 6556
+2025-04-17 11:30:46,911 - INFO - loop counter = 63
+2025-04-17 11:31:05,310 - INFO - Board uptime 6575
+2025-04-17 11:31:05,311 - INFO - loop counter = 64
+2025-04-17 11:31:23,710 - INFO - Board uptime 6593
+2025-04-17 11:31:23,710 - INFO - loop counter = 65
+2025-04-17 11:31:42,110 - INFO - Board uptime 6611
+2025-04-17 11:31:42,110 - INFO - loop counter = 66
+2025-04-17 11:32:00,510 - INFO - Board uptime 6630
+2025-04-17 11:32:00,510 - INFO - loop counter = 67
+2025-04-17 11:32:18,910 - INFO - Board uptime 6648
+2025-04-17 11:32:18,910 - INFO - loop counter = 68
+2025-04-17 11:32:37,309 - INFO - Board uptime 6667
+2025-04-17 11:32:37,310 - INFO - loop counter = 69
+2025-04-17 11:32:55,709 - INFO - Board uptime 6685
+2025-04-17 11:32:55,710 - INFO - loop counter = 70
+2025-04-17 11:33:14,109 - INFO - Board uptime 6703
+2025-04-17 11:33:14,110 - INFO - loop counter = 71
+2025-04-17 11:33:32,509 - INFO - Board uptime 6722
+2025-04-17 11:33:32,510 - INFO - loop counter = 72
+2025-04-17 11:33:50,909 - INFO - Board uptime 6740
+2025-04-17 11:33:50,910 - INFO - loop counter = 73
+2025-04-17 11:34:09,309 - INFO - Board uptime 6759
+2025-04-17 11:34:09,309 - INFO - loop counter = 74
+2025-04-17 11:34:27,709 - INFO - Board uptime 6777
+2025-04-17 11:34:27,709 - INFO - loop counter = 75
+2025-04-17 11:34:46,109 - INFO - Board uptime 6795
+2025-04-17 11:34:46,109 - INFO - loop counter = 76
+2025-04-17 11:35:04,508 - INFO - Board uptime 6814
+2025-04-17 11:35:04,509 - INFO - loop counter = 77
+2025-04-17 11:35:22,908 - INFO - Board uptime 6832
+2025-04-17 11:35:22,909 - INFO - loop counter = 78
+2025-04-17 11:35:41,308 - INFO - Board uptime 6851
+2025-04-17 11:35:41,309 - INFO - loop counter = 79
+2025-04-17 11:35:59,708 - INFO - Board uptime 6869
+2025-04-17 11:35:59,709 - INFO - loop counter = 80
+2025-04-17 11:36:18,108 - INFO - Board uptime 6887
+2025-04-17 11:36:18,108 - INFO - loop counter = 81
+2025-04-17 11:36:36,508 - INFO - Board uptime 6906
+2025-04-17 11:36:36,508 - INFO - loop counter = 82
+2025-04-17 11:36:54,908 - INFO - Board uptime 6924
+2025-04-17 11:36:54,908 - INFO - loop counter = 83
+2025-04-17 11:37:13,308 - INFO - Board uptime 6943
+2025-04-17 11:37:13,308 - INFO - loop counter = 84
+2025-04-17 11:37:31,707 - INFO - Board uptime 6961
+2025-04-17 11:37:31,708 - INFO - loop counter = 85
+2025-04-17 11:37:50,107 - INFO - Board uptime 6979
+2025-04-17 11:37:50,108 - INFO - loop counter = 86
+2025-04-17 11:38:08,507 - INFO - Board uptime 6998
+2025-04-17 11:38:08,508 - INFO - loop counter = 87
+2025-04-17 11:38:26,907 - INFO - Board uptime 7016
+2025-04-17 11:38:26,908 - INFO - loop counter = 88
+2025-04-17 11:38:45,307 - INFO - Board uptime 7035
+2025-04-17 11:38:45,307 - INFO - loop counter = 89
+2025-04-17 11:39:03,707 - INFO - Board uptime 7053
+2025-04-17 11:39:03,707 - INFO - loop counter = 90
+2025-04-17 11:39:22,107 - INFO - Board uptime 7071
+2025-04-17 11:39:22,107 - INFO - loop counter = 91
+2025-04-17 11:39:40,506 - INFO - Board uptime 7090
+2025-04-17 11:39:40,507 - INFO - loop counter = 92
+2025-04-17 11:39:58,906 - INFO - Board uptime 7108
+2025-04-17 11:39:58,907 - INFO - loop counter = 93
+2025-04-17 11:40:17,306 - INFO - Board uptime 7127
+2025-04-17 11:40:17,307 - INFO - loop counter = 94
+2025-04-17 11:40:35,706 - INFO - Board uptime 7145
+2025-04-17 11:40:35,707 - INFO - loop counter = 95
+2025-04-17 11:40:54,106 - INFO - Board uptime 7163
+2025-04-17 11:40:54,106 - INFO - loop counter = 96
+2025-04-17 11:41:12,506 - INFO - Board uptime 7182
+2025-04-17 11:41:12,506 - INFO - loop counter = 97
+2025-04-17 11:41:30,906 - INFO - Board uptime 7200
+2025-04-17 11:41:30,906 - INFO - loop counter = 98
+2025-04-17 11:41:49,305 - INFO - Board uptime 7219
+2025-04-17 11:41:49,306 - INFO - loop counter = 99
+2025-04-17 11:42:07,705 - INFO - Board uptime 7237
+2025-04-17 11:42:07,706 - INFO - loop counter = 100
+2025-04-17 11:42:26,105 - INFO - Board uptime 7255
+2025-04-17 11:42:26,106 - INFO - loop counter = 101
+2025-04-17 11:42:44,505 - INFO - Board uptime 7274
+2025-04-17 11:42:44,506 - INFO - loop counter = 102
+2025-04-17 11:43:02,905 - INFO - Board uptime 7292
+2025-04-17 11:43:02,905 - INFO - loop counter = 103
+2025-04-17 11:43:21,305 - INFO - Board uptime 7311
+2025-04-17 11:43:21,305 - INFO - loop counter = 104
+2025-04-17 11:43:39,705 - INFO - Board uptime 7329
+2025-04-17 11:43:39,705 - INFO - loop counter = 105
+2025-04-17 11:43:58,104 - INFO - Board uptime 7347
+2025-04-17 11:43:58,105 - INFO - loop counter = 106
+2025-04-17 11:44:16,504 - INFO - Board uptime 7366
+2025-04-17 11:44:16,505 - INFO - loop counter = 107
+2025-04-17 11:44:34,904 - INFO - Board uptime 7384
+2025-04-17 11:44:34,905 - INFO - loop counter = 108
+2025-04-17 11:44:53,304 - INFO - Board uptime 7403
+2025-04-17 11:44:53,305 - INFO - loop counter = 109
+2025-04-17 11:45:11,704 - INFO - Board uptime 7421
+2025-04-17 11:45:11,704 - INFO - loop counter = 110
+2025-04-17 11:45:30,104 - INFO - Board uptime 7439
+2025-04-17 11:45:30,104 - INFO - loop counter = 111
+2025-04-17 11:45:48,503 - INFO - Board uptime 7458
+2025-04-17 11:45:48,504 - INFO - loop counter = 112
+2025-04-17 11:46:06,903 - INFO - Board uptime 7476
+2025-04-17 11:46:06,904 - INFO - loop counter = 113
+2025-04-17 11:46:25,303 - INFO - Board uptime 7495
+2025-04-17 11:46:25,304 - INFO - loop counter = 114
+2025-04-17 11:46:43,703 - INFO - Board uptime 7513
+2025-04-17 11:46:43,704 - INFO - loop counter = 115
+2025-04-17 11:47:02,103 - INFO - Board uptime 7531
+2025-04-17 11:47:02,103 - INFO - loop counter = 116
+2025-04-17 11:47:20,503 - INFO - Board uptime 7550
+2025-04-17 11:47:20,503 - INFO - loop counter = 117
+2025-04-17 11:47:38,903 - INFO - Board uptime 7568
+2025-04-17 11:47:38,903 - INFO - loop counter = 118
+2025-04-17 11:47:57,302 - INFO - Board uptime 7587
+2025-04-17 11:47:57,303 - INFO - loop counter = 119
+2025-04-17 11:48:15,702 - INFO - Board uptime 7605
+2025-04-17 11:48:15,703 - INFO - loop counter = 120
+2025-04-17 11:48:34,102 - INFO - Board uptime 7623
+2025-04-17 11:48:34,103 - INFO - loop counter = 121
+2025-04-17 11:48:52,502 - INFO - Board uptime 7642
+2025-04-17 11:48:52,503 - INFO - loop counter = 122
+2025-04-17 11:49:10,902 - INFO - Board uptime 7660
+2025-04-17 11:49:10,902 - INFO - loop counter = 123
+2025-04-17 11:49:29,302 - INFO - Board uptime 7679
+2025-04-17 11:49:29,302 - INFO - loop counter = 124
+2025-04-17 11:49:47,701 - INFO - Board uptime 7697
+2025-04-17 11:49:47,702 - INFO - loop counter = 125
+2025-04-17 11:50:06,101 - INFO - Board uptime 7715
+2025-04-17 11:50:06,102 - INFO - loop counter = 126
+2025-04-17 11:50:24,501 - INFO - Board uptime 7734
+2025-04-17 11:50:24,502 - INFO - loop counter = 127
+2025-04-17 11:50:42,901 - INFO - Board uptime 7752
+2025-04-17 11:50:42,902 - INFO - loop counter = 128
+2025-04-17 11:51:01,301 - INFO - Board uptime 7771
+2025-04-17 11:51:01,301 - INFO - loop counter = 129
+2025-04-17 11:51:19,701 - INFO - Board uptime 7789
+2025-04-17 11:51:19,701 - INFO - loop counter = 130
+2025-04-17 11:51:38,101 - INFO - Board uptime 7807
+2025-04-17 11:51:38,101 - INFO - loop counter = 131
+2025-04-17 11:51:56,500 - INFO - Board uptime 7826
+2025-04-17 11:51:56,501 - INFO - loop counter = 132
+2025-04-17 11:52:14,900 - INFO - Board uptime 7844
+2025-04-17 11:52:14,901 - INFO - loop counter = 133
+2025-04-17 11:52:33,300 - INFO - Board uptime 7863
+2025-04-17 11:52:33,301 - INFO - loop counter = 134
+2025-04-17 11:52:51,700 - INFO - Board uptime 7881
+2025-04-17 11:52:51,701 - INFO - loop counter = 135
+2025-04-17 11:53:10,100 - INFO - Board uptime 7899
+2025-04-17 11:53:10,100 - INFO - loop counter = 136
+2025-04-17 11:53:28,500 - INFO - Board uptime 7918
+2025-04-17 11:53:28,500 - INFO - loop counter = 137
+2025-04-17 11:53:46,899 - INFO - Board uptime 7936
+2025-04-17 11:53:46,900 - INFO - loop counter = 138
+2025-04-17 11:54:05,299 - INFO - Board uptime 7955
+2025-04-17 11:54:05,300 - INFO - loop counter = 139
+2025-04-17 11:54:23,699 - INFO - Board uptime 7973
+2025-04-17 11:54:23,700 - INFO - loop counter = 140
+2025-04-17 11:54:42,099 - INFO - Board uptime 7991
+2025-04-17 11:54:42,099 - INFO - loop counter = 141
+2025-04-17 11:55:00,499 - INFO - Board uptime 8010
+2025-04-17 11:55:00,499 - INFO - loop counter = 142
+2025-04-17 11:55:18,899 - INFO - Board uptime 8028
+2025-04-17 11:55:18,899 - INFO - loop counter = 143
+2025-04-17 11:55:37,299 - INFO - Board uptime 8047
+2025-04-17 11:55:37,299 - INFO - loop counter = 144
+2025-04-17 11:55:55,698 - INFO - Board uptime 8065
+2025-04-17 11:55:55,699 - INFO - loop counter = 145
+2025-04-17 11:56:14,098 - INFO - Board uptime 8083
+2025-04-17 11:56:14,099 - INFO - loop counter = 146
+2025-04-17 11:56:32,498 - INFO - Board uptime 8102
+2025-04-17 11:56:32,499 - INFO - loop counter = 147
+2025-04-17 11:56:50,898 - INFO - Board uptime 8120
+2025-04-17 11:56:50,898 - INFO - loop counter = 148
+2025-04-17 11:57:09,298 - INFO - Board uptime 8139
+2025-04-17 11:57:09,298 - INFO - loop counter = 149
+2025-04-17 11:57:27,698 - INFO - Board uptime 8157
+2025-04-17 11:57:27,698 - INFO - loop counter = 150
+2025-04-17 11:57:46,097 - INFO - Board uptime 8175
+2025-04-17 11:57:46,098 - INFO - loop counter = 151
+2025-04-17 11:58:04,497 - INFO - Board uptime 8194
+2025-04-17 11:58:04,498 - INFO - loop counter = 152
+2025-04-17 11:58:22,897 - INFO - Board uptime 8212
+2025-04-17 11:58:22,898 - INFO - loop counter = 153
+2025-04-17 11:58:41,297 - INFO - Board uptime 8231
+2025-04-17 11:58:41,297 - INFO - loop counter = 154
+2025-04-17 11:58:59,697 - INFO - Board uptime 8249
+2025-04-17 11:58:59,697 - INFO - loop counter = 155
+2025-04-17 11:59:18,097 - INFO - Board uptime 8267
+2025-04-17 11:59:18,097 - INFO - loop counter = 156
+2025-04-17 11:59:36,496 - INFO - Board uptime 8286
+2025-04-17 11:59:36,497 - INFO - loop counter = 157
+2025-04-17 11:59:54,896 - INFO - Board uptime 8304
+2025-04-17 11:59:54,897 - INFO - loop counter = 158
+2025-04-17 12:00:13,296 - INFO - Board uptime 8323
+2025-04-17 12:00:13,297 - INFO - loop counter = 159
+2025-04-17 12:00:31,696 - INFO - Board uptime 8341
+2025-04-17 12:00:31,697 - INFO - loop counter = 160
+2025-04-17 12:00:50,096 - INFO - Board uptime 8359
+2025-04-17 12:00:50,096 - INFO - loop counter = 161
+2025-04-17 12:01:08,496 - INFO - Board uptime 8378
+2025-04-17 12:01:08,496 - INFO - loop counter = 162
+2025-04-17 12:01:26,896 - INFO - Board uptime 8396
+2025-04-17 12:01:26,896 - INFO - loop counter = 163
+2025-04-17 12:01:45,295 - INFO - Board uptime 8415
+2025-04-17 12:01:45,296 - INFO - loop counter = 164
+2025-04-17 12:02:03,695 - INFO - Board uptime 8433
+2025-04-17 12:02:03,696 - INFO - loop counter = 165
+2025-04-17 12:02:22,095 - INFO - Board uptime 8451
+2025-04-17 12:02:22,096 - INFO - loop counter = 166
+2025-04-17 12:02:40,495 - INFO - Board uptime 8470
+2025-04-17 12:02:40,495 - INFO - loop counter = 167
+2025-04-17 12:02:58,895 - INFO - Board uptime 8488
+2025-04-17 12:02:58,895 - INFO - loop counter = 168
+2025-04-17 12:03:17,295 - INFO - Board uptime 8507
+2025-04-17 12:03:17,295 - INFO - loop counter = 169
+2025-04-17 12:03:35,694 - INFO - Board uptime 8525
+2025-04-17 12:03:35,695 - INFO - loop counter = 170
+2025-04-17 12:03:54,094 - INFO - Board uptime 8543
+2025-04-17 12:03:54,095 - INFO - loop counter = 171
+2025-04-17 12:04:12,494 - INFO - Board uptime 8562
+2025-04-17 12:04:12,495 - INFO - loop counter = 172
+2025-04-17 12:04:30,894 - INFO - Board uptime 8580
+2025-04-17 12:04:30,894 - INFO - loop counter = 173
+2025-04-17 12:04:49,294 - INFO - Board uptime 8599
+2025-04-17 12:04:49,294 - INFO - loop counter = 174
+2025-04-17 12:05:07,694 - INFO - Board uptime 8617
+2025-04-17 12:05:07,694 - INFO - loop counter = 175
+2025-04-17 12:05:26,093 - INFO - Board uptime 8635
+2025-04-17 12:05:26,094 - INFO - loop counter = 176
+2025-04-17 12:05:44,493 - INFO - Board uptime 8654
+2025-04-17 12:05:44,494 - INFO - loop counter = 177
+2025-04-17 12:06:02,893 - INFO - Board uptime 8672
+2025-04-17 12:06:02,894 - INFO - loop counter = 178
+2025-04-17 12:06:21,293 - INFO - Board uptime 8691
+2025-04-17 12:06:21,294 - INFO - loop counter = 179
+2025-04-17 12:06:39,693 - INFO - Board uptime 8709
+2025-04-17 12:06:39,693 - INFO - loop counter = 180
+2025-04-17 12:06:58,093 - INFO - Board uptime 8727
+2025-04-17 12:06:58,093 - INFO - loop counter = 181
+2025-04-17 12:07:16,493 - INFO - Board uptime 8746
+2025-04-17 12:07:16,493 - INFO - loop counter = 182
+2025-04-17 12:07:34,892 - INFO - Board uptime 8764
+2025-04-17 12:07:34,893 - INFO - loop counter = 183
+2025-04-17 12:07:53,292 - INFO - Board uptime 8783
+2025-04-17 12:07:53,293 - INFO - loop counter = 184
+2025-04-17 12:08:11,692 - INFO - Board uptime 8801
+2025-04-17 12:08:11,693 - INFO - loop counter = 185
+2025-04-17 12:08:30,092 - INFO - Board uptime 8819
+2025-04-17 12:08:30,092 - INFO - loop counter = 186
+2025-04-17 12:08:48,492 - INFO - Board uptime 8838
+2025-04-17 12:08:48,492 - INFO - loop counter = 187
+2025-04-17 12:09:06,892 - INFO - Board uptime 8856
+2025-04-17 12:09:06,892 - INFO - loop counter = 188
+2025-04-17 12:09:25,292 - INFO - Board uptime 8875
+2025-04-17 12:09:25,292 - INFO - loop counter = 189
+2025-04-17 12:09:43,691 - INFO - Board uptime 8893
+2025-04-17 12:09:43,692 - INFO - loop counter = 190
+2025-04-17 12:10:02,091 - INFO - Board uptime 8911
+2025-04-17 12:10:02,092 - INFO - loop counter = 191
+2025-04-17 12:10:20,491 - INFO - Board uptime 8930
+2025-04-17 12:10:20,492 - INFO - loop counter = 192
+2025-04-17 12:10:38,891 - INFO - Board uptime 8948
+2025-04-17 12:10:38,891 - INFO - loop counter = 193
+2025-04-17 12:10:57,291 - INFO - Board uptime 8967
+2025-04-17 12:10:57,291 - INFO - loop counter = 194
+2025-04-17 12:11:15,691 - INFO - Board uptime 8985
+2025-04-17 12:11:15,691 - INFO - loop counter = 195
+2025-04-17 12:11:34,090 - INFO - Board uptime 9003
+2025-04-17 12:11:34,091 - INFO - loop counter = 196
+2025-04-17 12:11:52,490 - INFO - Board uptime 9022
+2025-04-17 12:11:52,491 - INFO - loop counter = 197
+2025-04-17 12:12:10,890 - INFO - Board uptime 9040
+2025-04-17 12:12:10,891 - INFO - loop counter = 198
+2025-04-17 12:12:29,290 - INFO - Board uptime 9059
+2025-04-17 12:12:29,290 - INFO - loop counter = 199
+2025-04-17 12:12:47,690 - INFO - Board uptime 9077
+2025-04-17 12:12:47,690 - INFO - loop counter = 200
+2025-04-17 12:13:06,090 - INFO - Board uptime 9095
+2025-04-17 12:13:06,090 - INFO - loop counter = 201
+2025-04-17 12:13:24,490 - INFO - Board uptime 9114
+2025-04-17 12:13:24,490 - INFO - loop counter = 202
+2025-04-17 12:13:42,889 - INFO - Board uptime 9132
+2025-04-17 12:13:42,890 - INFO - loop counter = 203
+2025-04-17 12:14:01,289 - INFO - Board uptime 9151
+2025-04-17 12:14:01,290 - INFO - loop counter = 204
+2025-04-17 12:14:19,689 - INFO - Board uptime 9169
+2025-04-17 12:14:19,690 - INFO - loop counter = 205
+2025-04-17 12:14:38,089 - INFO - Board uptime 9187
+2025-04-17 12:14:38,089 - INFO - loop counter = 206
+2025-04-17 12:14:56,489 - INFO - Board uptime 9206
+2025-04-17 12:14:56,489 - INFO - loop counter = 207
+2025-04-17 12:15:14,889 - INFO - Board uptime 9224
+2025-04-17 12:15:14,889 - INFO - loop counter = 208
+2025-04-17 12:15:33,288 - INFO - Board uptime 9243
+2025-04-17 12:15:33,289 - INFO - loop counter = 209
+2025-04-17 12:15:51,688 - INFO - Board uptime 9261
+2025-04-17 12:15:51,689 - INFO - loop counter = 210
+2025-04-17 12:16:10,088 - INFO - Board uptime 9279
+2025-04-17 12:16:10,089 - INFO - loop counter = 211
+2025-04-17 12:16:28,488 - INFO - Board uptime 9298
+2025-04-17 12:16:28,489 - INFO - loop counter = 212
+2025-04-17 12:16:46,888 - INFO - Board uptime 9316
+2025-04-17 12:16:46,888 - INFO - loop counter = 213
+2025-04-17 12:17:05,288 - INFO - Board uptime 9335
+2025-04-17 12:17:05,288 - INFO - loop counter = 214
+2025-04-17 12:17:23,688 - INFO - Board uptime 9353
+2025-04-17 12:17:23,688 - INFO - loop counter = 215
+2025-04-17 12:17:42,087 - INFO - Board uptime 9371
+2025-04-17 12:17:42,088 - INFO - loop counter = 216
+2025-04-17 12:18:00,487 - INFO - Board uptime 9390
+2025-04-17 12:18:00,488 - INFO - loop counter = 217
+2025-04-17 12:18:18,887 - INFO - Board uptime 9408
+2025-04-17 12:18:18,888 - INFO - loop counter = 218
+2025-04-17 12:18:37,287 - INFO - Board uptime 9427
+2025-04-17 12:18:37,287 - INFO - loop counter = 219
+2025-04-17 12:18:55,687 - INFO - Board uptime 9445
+2025-04-17 12:18:55,687 - INFO - loop counter = 220
+2025-04-17 12:19:14,087 - INFO - Board uptime 9463
+2025-04-17 12:19:14,087 - INFO - loop counter = 221
+2025-04-17 12:19:32,486 - INFO - Board uptime 9482
+2025-04-17 12:19:32,487 - INFO - loop counter = 222
+2025-04-17 12:19:50,886 - INFO - Board uptime 9500
+2025-04-17 12:19:50,887 - INFO - loop counter = 223
+2025-04-17 12:20:09,286 - INFO - Board uptime 9519
+2025-04-17 12:20:09,287 - INFO - loop counter = 224
+2025-04-17 12:20:27,686 - INFO - Board uptime 9537
+2025-04-17 12:20:27,687 - INFO - loop counter = 225
+2025-04-17 12:20:46,086 - INFO - Board uptime 9555
+2025-04-17 12:20:46,086 - INFO - loop counter = 226
+2025-04-17 12:21:04,486 - INFO - Board uptime 9574
+2025-04-17 12:21:04,486 - INFO - loop counter = 227
+2025-04-17 12:21:22,885 - INFO - Board uptime 9592
+2025-04-17 12:21:22,886 - INFO - loop counter = 228
+2025-04-17 12:21:41,285 - INFO - Board uptime 9611
+2025-04-17 12:21:41,286 - INFO - loop counter = 229
+2025-04-17 12:21:59,685 - INFO - Board uptime 9629
+2025-04-17 12:21:59,686 - INFO - loop counter = 230
+2025-04-17 12:22:18,085 - INFO - Board uptime 9647
+2025-04-17 12:22:18,086 - INFO - loop counter = 231
+2025-04-17 12:22:36,485 - INFO - Board uptime 9666
+2025-04-17 12:22:36,485 - INFO - loop counter = 232
+2025-04-17 12:22:54,885 - INFO - Board uptime 9684
+2025-04-17 12:22:54,885 - INFO - loop counter = 233
+2025-04-17 12:23:13,285 - INFO - Board uptime 9703
+2025-04-17 12:23:13,285 - INFO - loop counter = 234
+2025-04-17 12:23:31,684 - INFO - Board uptime 9721
+2025-04-17 12:23:31,685 - INFO - loop counter = 235
+2025-04-17 12:23:50,084 - INFO - Board uptime 9739
+2025-04-17 12:23:50,085 - INFO - loop counter = 236
+2025-04-17 12:24:08,484 - INFO - Board uptime 9758
+2025-04-17 12:24:08,485 - INFO - loop counter = 237
+2025-04-17 12:24:26,884 - INFO - Board uptime 9776
+2025-04-17 12:24:26,884 - INFO - loop counter = 238
+2025-04-17 12:24:45,284 - INFO - Board uptime 9795
+2025-04-17 12:24:45,284 - INFO - loop counter = 239
+2025-04-17 12:25:03,684 - INFO - Board uptime 9813
+2025-04-17 12:25:03,684 - INFO - loop counter = 240
+2025-04-17 12:25:22,083 - INFO - Board uptime 9831
+2025-04-17 12:25:22,084 - INFO - loop counter = 241
+2025-04-17 12:25:40,483 - INFO - Board uptime 9850
+2025-04-17 12:25:40,484 - INFO - loop counter = 242
+2025-04-17 12:25:58,883 - INFO - Board uptime 9868
+2025-04-17 12:25:58,884 - INFO - loop counter = 243
+2025-04-17 12:26:17,283 - INFO - Board uptime 9887
+2025-04-17 12:26:17,284 - INFO - loop counter = 244
+2025-04-17 12:26:35,683 - INFO - Board uptime 9905
+2025-04-17 12:26:35,683 - INFO - loop counter = 245
+2025-04-17 12:26:54,083 - INFO - Board uptime 9923
+2025-04-17 12:26:54,083 - INFO - loop counter = 246
+2025-04-17 12:27:12,483 - INFO - Board uptime 9942
+2025-04-17 12:27:12,483 - INFO - loop counter = 247
+2025-04-17 12:27:30,882 - INFO - Board uptime 9960
+2025-04-17 12:27:30,883 - INFO - loop counter = 248
+2025-04-17 12:27:49,282 - INFO - Board uptime 9979
+2025-04-17 12:27:49,283 - INFO - loop counter = 249
+2025-04-17 12:28:07,682 - INFO - Board uptime 9997
+2025-04-17 12:28:07,683 - INFO - loop counter = 250
+2025-04-17 12:28:26,082 - INFO - Board uptime 10015
+2025-04-17 12:28:26,082 - INFO - loop counter = 251
+2025-04-17 12:28:44,482 - INFO - Board uptime 10034
+2025-04-17 12:28:44,482 - INFO - loop counter = 252
+2025-04-17 12:29:02,882 - INFO - Board uptime 10052
+2025-04-17 12:29:02,882 - INFO - loop counter = 253
+2025-04-17 12:29:21,281 - INFO - Board uptime 10071
+2025-04-17 12:29:21,282 - INFO - loop counter = 254
+2025-04-17 12:29:39,681 - INFO - Board uptime 10089
+2025-04-17 12:29:39,682 - INFO - loop counter = 255
+2025-04-17 12:29:58,081 - INFO - Board uptime 10107
+2025-04-17 12:29:58,082 - INFO - loop counter = 256
+2025-04-17 12:30:16,481 - INFO - Board uptime 10126
+2025-04-17 12:30:16,481 - INFO - loop counter = 257
+2025-04-17 12:30:34,881 - INFO - Board uptime 10144
+2025-04-17 12:30:34,881 - INFO - loop counter = 258
+2025-04-17 12:30:53,281 - INFO - Board uptime 10163
+2025-04-17 12:30:53,281 - INFO - loop counter = 259
+2025-04-17 12:31:11,680 - INFO - Board uptime 10181
+2025-04-17 12:31:11,681 - INFO - loop counter = 260
+2025-04-17 12:31:30,080 - INFO - Board uptime 10199
+2025-04-17 12:31:30,081 - INFO - loop counter = 261
+2025-04-17 12:31:48,480 - INFO - Board uptime 10218
+2025-04-17 12:31:48,481 - INFO - loop counter = 262
+2025-04-17 12:32:06,880 - INFO - Board uptime 10236
+2025-04-17 12:32:06,880 - INFO - loop counter = 263
+2025-04-17 12:32:25,280 - INFO - Board uptime 10255
+2025-04-17 12:32:25,280 - INFO - loop counter = 264
+2025-04-17 12:32:43,680 - INFO - Board uptime 10273
+2025-04-17 12:32:43,680 - INFO - loop counter = 265
+2025-04-17 12:33:02,079 - INFO - Board uptime 10291
+2025-04-17 12:33:02,080 - INFO - loop counter = 266
+2025-04-17 12:33:20,479 - INFO - Board uptime 10310
+2025-04-17 12:33:20,480 - INFO - loop counter = 267
+2025-04-17 12:33:38,879 - INFO - Board uptime 10328
+2025-04-17 12:33:38,880 - INFO - loop counter = 268
+2025-04-17 12:33:57,279 - INFO - Board uptime 10347
+2025-04-17 12:33:57,280 - INFO - loop counter = 269
+2025-04-17 12:34:15,679 - INFO - Board uptime 10365
+2025-04-17 12:34:15,680 - INFO - loop counter = 270
+2025-04-17 12:34:34,079 - INFO - Board uptime 10383
+2025-04-17 12:34:34,079 - INFO - loop counter = 271
+2025-04-17 12:34:52,479 - INFO - Board uptime 10402
+2025-04-17 12:34:52,479 - INFO - loop counter = 272
+2025-04-17 12:35:10,878 - INFO - Board uptime 10420
+2025-04-17 12:35:10,879 - INFO - loop counter = 273
+2025-04-17 12:35:29,278 - INFO - Board uptime 10439
+2025-04-17 12:35:29,279 - INFO - loop counter = 274
+2025-04-17 12:35:47,678 - INFO - Board uptime 10457
+2025-04-17 12:35:47,679 - INFO - loop counter = 275
+2025-04-17 12:36:06,078 - INFO - Board uptime 10475
+2025-04-17 12:36:06,078 - INFO - loop counter = 276
+2025-04-17 12:36:24,478 - INFO - Board uptime 10494
+2025-04-17 12:36:24,478 - INFO - loop counter = 277
+2025-04-17 12:36:42,878 - INFO - Board uptime 10512
+2025-04-17 12:36:42,878 - INFO - loop counter = 278
+2025-04-17 12:37:01,277 - INFO - Board uptime 10531
+2025-04-17 12:37:01,278 - INFO - loop counter = 279
+2025-04-17 12:37:19,677 - INFO - Board uptime 10549
+2025-04-17 12:37:19,678 - INFO - loop counter = 280
+2025-04-17 12:37:38,077 - INFO - Board uptime 10567
+2025-04-17 12:37:38,078 - INFO - loop counter = 281
+2025-04-17 12:37:56,477 - INFO - Board uptime 10586
+2025-04-17 12:37:56,477 - INFO - loop counter = 282
+2025-04-17 12:38:14,877 - INFO - Board uptime 10604
+2025-04-17 12:38:14,877 - INFO - loop counter = 283
+2025-04-17 12:38:33,277 - INFO - Board uptime 10623
+2025-04-17 12:38:33,277 - INFO - loop counter = 284
+2025-04-17 12:38:51,676 - INFO - Board uptime 10641
+2025-04-17 12:38:51,677 - INFO - loop counter = 285
+2025-04-17 12:39:10,076 - INFO - Board uptime 10659
+2025-04-17 12:39:10,077 - INFO - loop counter = 286
+2025-04-17 12:39:28,476 - INFO - Board uptime 10678
+2025-04-17 12:39:28,477 - INFO - loop counter = 287
+2025-04-17 12:39:46,876 - INFO - Board uptime 10696
+2025-04-17 12:39:46,877 - INFO - loop counter = 288
+2025-04-17 12:40:05,276 - INFO - Board uptime 10715
+2025-04-17 12:40:05,276 - INFO - loop counter = 289
+2025-04-17 12:40:23,676 - INFO - Board uptime 10733
+2025-04-17 12:40:23,676 - INFO - loop counter = 290
+2025-04-17 12:40:42,076 - INFO - Board uptime 10751
+2025-04-17 12:40:42,076 - INFO - loop counter = 291
+2025-04-17 12:41:00,475 - INFO - Board uptime 10770
+2025-04-17 12:41:00,476 - INFO - loop counter = 292
+2025-04-17 12:41:18,875 - INFO - Board uptime 10788
+2025-04-17 12:41:18,876 - INFO - loop counter = 293
+2025-04-17 12:41:37,275 - INFO - Board uptime 10807
+2025-04-17 12:41:37,276 - INFO - loop counter = 294
+2025-04-17 12:41:55,675 - INFO - Board uptime 10825
+2025-04-17 12:41:55,676 - INFO - loop counter = 295
+2025-04-17 12:42:14,075 - INFO - Board uptime 10843
+2025-04-17 12:42:14,076 - INFO - loop counter = 296
+2025-04-17 12:42:32,475 - INFO - Board uptime 10862
+2025-04-17 12:42:32,475 - INFO - loop counter = 297
+2025-04-17 12:42:50,874 - INFO - Board uptime 10880
+2025-04-17 12:42:50,875 - INFO - loop counter = 298
+2025-04-17 12:43:09,274 - INFO - Board uptime 10899
+2025-04-17 12:43:09,275 - INFO - loop counter = 299
+2025-04-17 12:43:27,674 - INFO - Board uptime 10917
+2025-04-17 12:43:27,675 - INFO - loop counter = 300
+2025-04-17 12:43:46,074 - INFO - Board uptime 10935
+2025-04-17 12:43:46,075 - INFO - loop counter = 301
+2025-04-17 12:44:04,474 - INFO - Board uptime 10954
+2025-04-17 12:44:04,475 - INFO - loop counter = 302
+2025-04-17 12:44:22,874 - INFO - Board uptime 10972
+2025-04-17 12:44:22,874 - INFO - loop counter = 303
+2025-04-17 12:44:41,273 - INFO - Board uptime 10991
+2025-04-17 12:44:41,274 - INFO - loop counter = 304
+2025-04-17 12:44:59,673 - INFO - Board uptime 11009
+2025-04-17 12:44:59,674 - INFO - loop counter = 305
+2025-04-17 12:45:18,073 - INFO - Board uptime 11027
+2025-04-17 12:45:18,074 - INFO - loop counter = 306
+2025-04-17 12:45:36,473 - INFO - Board uptime 11046
+2025-04-17 12:45:36,474 - INFO - loop counter = 307
+2025-04-17 12:45:54,873 - INFO - Board uptime 11064
+2025-04-17 12:45:54,873 - INFO - loop counter = 308
+2025-04-17 12:46:13,273 - INFO - Board uptime 11083
+2025-04-17 12:46:13,273 - INFO - loop counter = 309
+2025-04-17 12:46:31,673 - INFO - Board uptime 11101
+2025-04-17 12:46:31,673 - INFO - loop counter = 310
+2025-04-17 12:46:50,072 - INFO - Board uptime 11119
+2025-04-17 12:46:50,073 - INFO - loop counter = 311
+2025-04-17 12:47:08,472 - INFO - Board uptime 11138
+2025-04-17 12:47:08,473 - INFO - loop counter = 312
+2025-04-17 12:47:26,872 - INFO - Board uptime 11156
+2025-04-17 12:47:26,873 - INFO - loop counter = 313
+2025-04-17 12:47:45,272 - INFO - Board uptime 11175
+2025-04-17 12:47:45,272 - INFO - loop counter = 314
+2025-04-17 12:48:03,672 - INFO - Board uptime 11193
+2025-04-17 12:48:03,672 - INFO - loop counter = 315
+2025-04-17 12:48:22,072 - INFO - Board uptime 11211
+2025-04-17 12:48:22,072 - INFO - loop counter = 316
+2025-04-17 12:48:40,471 - INFO - Board uptime 11230
+2025-04-17 12:48:40,472 - INFO - loop counter = 317
+2025-04-17 12:48:58,871 - INFO - Board uptime 11248
+2025-04-17 12:48:58,872 - INFO - loop counter = 318
+2025-04-17 12:49:17,271 - INFO - Board uptime 11267
+2025-04-17 12:49:17,272 - INFO - loop counter = 319
+2025-04-17 12:49:35,671 - INFO - Board uptime 11285
+2025-04-17 12:49:35,672 - INFO - loop counter = 320
+2025-04-17 12:49:54,071 - INFO - Board uptime 11303
+2025-04-17 12:49:54,071 - INFO - loop counter = 321
+2025-04-17 12:50:12,471 - INFO - Board uptime 11322
+2025-04-17 12:50:12,471 - INFO - loop counter = 322
+2025-04-17 12:50:30,870 - INFO - Board uptime 11340
+2025-04-17 12:50:30,871 - INFO - loop counter = 323
+2025-04-17 12:50:49,270 - INFO - Board uptime 11359
+2025-04-17 12:50:49,271 - INFO - loop counter = 324
+2025-04-17 12:51:07,670 - INFO - Board uptime 11377
+2025-04-17 12:51:07,671 - INFO - loop counter = 325
+2025-04-17 12:51:26,070 - INFO - Board uptime 11395
+2025-04-17 12:51:26,071 - INFO - loop counter = 326
+2025-04-17 12:51:44,470 - INFO - Board uptime 11414
+2025-04-17 12:51:44,470 - INFO - loop counter = 327
+2025-04-17 12:52:02,870 - INFO - Board uptime 11432
+2025-04-17 12:52:02,870 - INFO - loop counter = 328
+2025-04-17 12:52:21,269 - INFO - Board uptime 11451
+2025-04-17 12:52:21,270 - INFO - loop counter = 329
+2025-04-17 12:52:39,669 - INFO - Board uptime 11469
+2025-04-17 12:52:39,670 - INFO - loop counter = 330
+2025-04-17 12:52:58,069 - INFO - Board uptime 11487
+2025-04-17 12:52:58,070 - INFO - loop counter = 331
+2025-04-17 12:53:16,469 - INFO - Board uptime 11506
+2025-04-17 12:53:16,470 - INFO - loop counter = 332
+2025-04-17 12:53:34,869 - INFO - Board uptime 11524
+2025-04-17 12:53:34,869 - INFO - loop counter = 333
+2025-04-17 12:53:53,269 - INFO - Board uptime 11543
+2025-04-17 12:53:53,269 - INFO - loop counter = 334
+2025-04-17 12:54:11,669 - INFO - Board uptime 11561
+2025-04-17 12:54:11,669 - INFO - loop counter = 335
+2025-04-17 12:54:30,068 - INFO - Board uptime 11579
+2025-04-17 12:54:30,069 - INFO - loop counter = 336
+2025-04-17 12:54:48,468 - INFO - Board uptime 11598
+2025-04-17 12:54:48,469 - INFO - loop counter = 337
+2025-04-17 12:55:06,868 - INFO - Board uptime 11616
+2025-04-17 12:55:06,869 - INFO - loop counter = 338
+2025-04-17 12:55:25,268 - INFO - Board uptime 11635
+2025-04-17 12:55:25,268 - INFO - loop counter = 339
+2025-04-17 12:55:43,668 - INFO - Board uptime 11653
+2025-04-17 12:55:43,668 - INFO - loop counter = 340
+2025-04-17 12:56:02,068 - INFO - Board uptime 11671
+2025-04-17 12:56:02,068 - INFO - loop counter = 341
+2025-04-17 12:56:20,467 - INFO - Board uptime 11690
+2025-04-17 12:56:20,468 - INFO - loop counter = 342
+2025-04-17 12:56:38,867 - INFO - Board uptime 11708
+2025-04-17 12:56:38,868 - INFO - loop counter = 343
+2025-04-17 12:56:57,267 - INFO - Board uptime 11727
+2025-04-17 12:56:57,268 - INFO - loop counter = 344
+2025-04-17 12:57:15,667 - INFO - Board uptime 11745
+2025-04-17 12:57:15,667 - INFO - loop counter = 345
+2025-04-17 12:57:34,067 - INFO - Board uptime 11763
+2025-04-17 12:57:34,067 - INFO - loop counter = 346
+2025-04-17 12:57:52,467 - INFO - Board uptime 11782
+2025-04-17 12:57:52,467 - INFO - loop counter = 347
+2025-04-17 12:58:10,866 - INFO - Board uptime 11800
+2025-04-17 12:58:10,867 - INFO - loop counter = 348
+2025-04-17 12:58:29,266 - INFO - Board uptime 11819
+2025-04-17 12:58:29,267 - INFO - loop counter = 349
+2025-04-17 12:58:47,666 - INFO - Board uptime 11837
+2025-04-17 12:58:47,667 - INFO - loop counter = 350
+2025-04-17 12:59:06,066 - INFO - Board uptime 11855
+2025-04-17 12:59:06,067 - INFO - loop counter = 351
+2025-04-17 12:59:24,466 - INFO - Board uptime 11874
+2025-04-17 12:59:24,466 - INFO - loop counter = 352
+2025-04-17 12:59:42,866 - INFO - Board uptime 11892
+2025-04-17 12:59:42,866 - INFO - loop counter = 353
+2025-04-17 13:00:01,167 - INFO - Board uptime 11911
+2025-04-17 13:00:01,167 - INFO - loop counter = 354
+2025-04-17 13:00:19,566 - INFO - Board uptime 11929
+2025-04-17 13:00:19,567 - INFO - loop counter = 355
+2025-04-17 13:00:37,966 - INFO - Board uptime 11947
+2025-04-17 13:00:37,967 - INFO - loop counter = 356
+2025-04-17 13:00:56,366 - INFO - Board uptime 11966
+2025-04-17 13:00:56,367 - INFO - loop counter = 357
+2025-04-17 13:01:14,766 - INFO - Board uptime 11984
+2025-04-17 13:01:14,766 - INFO - loop counter = 358
+2025-04-17 13:01:33,166 - INFO - Board uptime 12003
+2025-04-17 13:01:33,166 - INFO - loop counter = 359
+2025-04-17 13:01:51,566 - INFO - Board uptime 12021
+2025-04-17 13:01:51,566 - INFO - loop counter = 360
+2025-04-17 13:02:09,965 - INFO - Board uptime 12039
+2025-04-17 13:02:09,966 - INFO - loop counter = 361
+2025-04-17 13:02:28,365 - INFO - Board uptime 12058
+2025-04-17 13:02:28,366 - INFO - loop counter = 362
+2025-04-17 13:02:46,765 - INFO - Board uptime 12076
+2025-04-17 13:02:46,766 - INFO - loop counter = 363
+2025-04-17 13:03:05,165 - INFO - Board uptime 12095
+2025-04-17 13:03:05,165 - INFO - loop counter = 364
+2025-04-17 13:03:23,565 - INFO - Board uptime 12113
+2025-04-17 13:03:23,565 - INFO - loop counter = 365
+2025-04-17 13:03:41,965 - INFO - Board uptime 12131
+2025-04-17 13:03:41,965 - INFO - loop counter = 366
+2025-04-17 13:04:00,365 - INFO - Board uptime 12150
+2025-04-17 13:04:00,365 - INFO - loop counter = 367
+2025-04-17 13:04:18,764 - INFO - Board uptime 12168
+2025-04-17 13:04:18,765 - INFO - loop counter = 368
+2025-04-17 13:04:37,164 - INFO - Board uptime 12187
+2025-04-17 13:04:37,165 - INFO - loop counter = 369
+2025-04-17 13:04:55,564 - INFO - Board uptime 12205
+2025-04-17 13:04:55,565 - INFO - loop counter = 370
+2025-04-17 13:05:13,964 - INFO - Board uptime 12223
+2025-04-17 13:05:13,964 - INFO - loop counter = 371
+2025-04-17 13:05:32,364 - INFO - Board uptime 12242
+2025-04-17 13:05:32,364 - INFO - loop counter = 372
+2025-04-17 13:05:50,763 - INFO - Board uptime 12260
+2025-04-17 13:05:50,764 - INFO - loop counter = 373
+2025-04-17 13:06:09,163 - INFO - Board uptime 12279
+2025-04-17 13:06:09,164 - INFO - loop counter = 374
+2025-04-17 13:06:27,563 - INFO - Board uptime 12297
+2025-04-17 13:06:27,564 - INFO - loop counter = 375
+2025-04-17 13:06:45,963 - INFO - Board uptime 12315
+2025-04-17 13:06:45,964 - INFO - loop counter = 376
+2025-04-17 13:07:04,363 - INFO - Board uptime 12334
+2025-04-17 13:07:04,363 - INFO - loop counter = 377
+2025-04-17 13:07:22,763 - INFO - Board uptime 12352
+2025-04-17 13:07:22,763 - INFO - loop counter = 378
+2025-04-17 13:07:41,163 - INFO - Board uptime 12371
+2025-04-17 13:07:41,163 - INFO - loop counter = 379
+2025-04-17 13:07:59,562 - INFO - Board uptime 12389
+2025-04-17 13:07:59,563 - INFO - loop counter = 380
+2025-04-17 13:08:17,962 - INFO - Board uptime 12407
+2025-04-17 13:08:17,963 - INFO - loop counter = 381
+2025-04-17 13:08:36,362 - INFO - Board uptime 12426
+2025-04-17 13:08:36,363 - INFO - loop counter = 382
+2025-04-17 13:08:54,762 - INFO - Board uptime 12444
+2025-04-17 13:08:54,762 - INFO - loop counter = 383
+2025-04-17 13:09:13,162 - INFO - Board uptime 12463
+2025-04-17 13:09:13,162 - INFO - loop counter = 384
+2025-04-17 13:09:31,562 - INFO - Board uptime 12481
+2025-04-17 13:09:31,562 - INFO - loop counter = 385
+2025-04-17 13:09:49,961 - INFO - Board uptime 12499
+2025-04-17 13:09:49,962 - INFO - loop counter = 386
+2025-04-17 13:10:08,361 - INFO - Board uptime 12518
+2025-04-17 13:10:08,362 - INFO - loop counter = 387
+2025-04-17 13:10:26,761 - INFO - Board uptime 12536
+2025-04-17 13:10:26,762 - INFO - loop counter = 388
+2025-04-17 13:10:45,161 - INFO - Board uptime 12555
+2025-04-17 13:10:45,161 - INFO - loop counter = 389
+2025-04-17 13:11:03,561 - INFO - Board uptime 12573
+2025-04-17 13:11:03,561 - INFO - loop counter = 390
+2025-04-17 13:11:21,961 - INFO - Board uptime 12591
+2025-04-17 13:11:21,961 - INFO - loop counter = 391
+2025-04-17 13:11:40,360 - INFO - Board uptime 12610
+2025-04-17 13:11:40,361 - INFO - loop counter = 392
+2025-04-17 13:11:58,760 - INFO - Board uptime 12628
+2025-04-17 13:11:58,761 - INFO - loop counter = 393
+2025-04-17 13:12:17,160 - INFO - Board uptime 12647
+2025-04-17 13:12:17,161 - INFO - loop counter = 394
+2025-04-17 13:12:35,560 - INFO - Board uptime 12665
+2025-04-17 13:12:35,561 - INFO - loop counter = 395
+2025-04-17 13:12:53,960 - INFO - Board uptime 12683
+2025-04-17 13:12:53,960 - INFO - loop counter = 396
+2025-04-17 13:13:12,360 - INFO - Board uptime 12702
+2025-04-17 13:13:12,360 - INFO - loop counter = 397
+2025-04-17 13:13:30,760 - INFO - Board uptime 12720
+2025-04-17 13:13:30,760 - INFO - loop counter = 398
+2025-04-17 13:13:49,159 - INFO - Board uptime 12739
+2025-04-17 13:13:49,160 - INFO - loop counter = 399
+2025-04-17 13:14:07,559 - INFO - Board uptime 12757
+2025-04-17 13:14:07,560 - INFO - loop counter = 400
+2025-04-17 13:14:25,959 - INFO - Board uptime 12775
+2025-04-17 13:14:25,960 - INFO - loop counter = 401
+2025-04-17 13:14:44,359 - INFO - Board uptime 12794
+2025-04-17 13:14:44,359 - INFO - loop counter = 402
+2025-04-17 13:15:02,759 - INFO - Board uptime 12812
+2025-04-17 13:15:02,759 - INFO - loop counter = 403
+2025-04-17 13:15:21,159 - INFO - Board uptime 12831
+2025-04-17 13:15:21,159 - INFO - loop counter = 404
+2025-04-17 13:15:39,558 - INFO - Board uptime 12849
+2025-04-17 13:15:39,559 - INFO - loop counter = 405
+2025-04-17 13:15:57,958 - INFO - Board uptime 12867
+2025-04-17 13:15:57,959 - INFO - loop counter = 406
+2025-04-17 13:16:16,358 - INFO - Board uptime 12886
+2025-04-17 13:16:16,359 - INFO - loop counter = 407
+2025-04-17 13:16:34,758 - INFO - Board uptime 12904
+2025-04-17 13:16:34,758 - INFO - loop counter = 408
+2025-04-17 13:16:53,158 - INFO - Board uptime 12923
+2025-04-17 13:16:53,158 - INFO - loop counter = 409
+2025-04-17 13:17:11,558 - INFO - Board uptime 12941
+2025-04-17 13:17:11,558 - INFO - loop counter = 410
+2025-04-17 13:17:29,957 - INFO - Board uptime 12959
+2025-04-17 13:17:29,958 - INFO - loop counter = 411
+2025-04-17 13:17:48,357 - INFO - Board uptime 12978
+2025-04-17 13:17:48,358 - INFO - loop counter = 412
+2025-04-17 13:18:06,757 - INFO - Board uptime 12996
+2025-04-17 13:18:06,758 - INFO - loop counter = 413
+2025-04-17 13:18:25,157 - INFO - Board uptime 13015
+2025-04-17 13:18:25,157 - INFO - loop counter = 414
+2025-04-17 13:18:43,557 - INFO - Board uptime 13033
+2025-04-17 13:18:43,557 - INFO - loop counter = 415
+2025-04-17 13:19:01,957 - INFO - Board uptime 13051
+2025-04-17 13:19:01,957 - INFO - loop counter = 416
+2025-04-17 13:19:20,357 - INFO - Board uptime 13070
+2025-04-17 13:19:20,357 - INFO - loop counter = 417
+2025-04-17 13:19:38,756 - INFO - Board uptime 13088
+2025-04-17 13:19:38,757 - INFO - loop counter = 418
+2025-04-17 13:19:57,156 - INFO - Board uptime 13107
+2025-04-17 13:19:57,157 - INFO - loop counter = 419
+2025-04-17 13:20:15,556 - INFO - Board uptime 13125
+2025-04-17 13:20:15,557 - INFO - loop counter = 420
+2025-04-17 13:20:33,956 - INFO - Board uptime 13143
+2025-04-17 13:20:33,956 - INFO - loop counter = 421
+2025-04-17 13:20:52,356 - INFO - Board uptime 13162
+2025-04-17 13:20:52,356 - INFO - loop counter = 422
+2025-04-17 13:21:10,756 - INFO - Board uptime 13180
+2025-04-17 13:21:10,756 - INFO - loop counter = 423
+2025-04-17 13:21:29,155 - INFO - Board uptime 13199
+2025-04-17 13:21:29,156 - INFO - loop counter = 424
+2025-04-17 13:21:47,555 - INFO - Board uptime 13217
+2025-04-17 13:21:47,556 - INFO - loop counter = 425
+2025-04-17 13:22:05,955 - INFO - Board uptime 13235
+2025-04-17 13:22:05,956 - INFO - loop counter = 426
+2025-04-17 13:22:24,355 - INFO - Board uptime 13254
+2025-04-17 13:22:24,355 - INFO - loop counter = 427
+2025-04-17 13:22:42,755 - INFO - Board uptime 13272
+2025-04-17 13:22:42,755 - INFO - loop counter = 428
+2025-04-17 13:23:01,155 - INFO - Board uptime 13291
+2025-04-17 13:23:01,155 - INFO - loop counter = 429
+2025-04-17 13:23:19,555 - INFO - Board uptime 13309
+2025-04-17 13:23:19,555 - INFO - loop counter = 430
+2025-04-17 13:23:37,954 - INFO - Board uptime 13327
+2025-04-17 13:23:37,955 - INFO - loop counter = 431
+2025-04-17 13:23:56,354 - INFO - Board uptime 13346
+2025-04-17 13:23:56,355 - INFO - loop counter = 432
+2025-04-17 13:24:14,754 - INFO - Board uptime 13364
+2025-04-17 13:24:14,754 - INFO - loop counter = 433
+2025-04-17 13:24:33,154 - INFO - Board uptime 13383
+2025-04-17 13:24:33,154 - INFO - loop counter = 434
+2025-04-17 13:24:51,554 - INFO - Board uptime 13401
+2025-04-17 13:24:51,554 - INFO - loop counter = 435
+2025-04-17 13:25:09,953 - INFO - Board uptime 13419
+2025-04-17 13:25:09,954 - INFO - loop counter = 436
+2025-04-17 13:25:28,353 - INFO - Board uptime 13438
+2025-04-17 13:25:28,354 - INFO - loop counter = 437
+2025-04-17 13:25:46,753 - INFO - Board uptime 13456
+2025-04-17 13:25:46,754 - INFO - loop counter = 438
+2025-04-17 13:26:05,153 - INFO - Board uptime 13475
+2025-04-17 13:26:05,154 - INFO - loop counter = 439
+2025-04-17 13:26:23,553 - INFO - Board uptime 13493
+2025-04-17 13:26:23,553 - INFO - loop counter = 440
+2025-04-17 13:26:41,953 - INFO - Board uptime 13511
+2025-04-17 13:26:41,953 - INFO - loop counter = 441
+2025-04-17 13:27:00,353 - INFO - Board uptime 13530
+2025-04-17 13:27:00,353 - INFO - loop counter = 442
+2025-04-17 13:27:18,752 - INFO - Board uptime 13548
+2025-04-17 13:27:18,753 - INFO - loop counter = 443
+2025-04-17 13:27:37,152 - INFO - Board uptime 13567
+2025-04-17 13:27:37,153 - INFO - loop counter = 444
+2025-04-17 13:27:55,552 - INFO - Board uptime 13585
+2025-04-17 13:27:55,553 - INFO - loop counter = 445
+2025-04-17 13:28:13,952 - INFO - Board uptime 13603
+2025-04-17 13:28:13,952 - INFO - loop counter = 446
+2025-04-17 13:28:32,352 - INFO - Board uptime 13622
+2025-04-17 13:28:32,352 - INFO - loop counter = 447
+2025-04-17 13:28:50,752 - INFO - Board uptime 13640
+2025-04-17 13:28:50,752 - INFO - loop counter = 448
+2025-04-17 13:29:09,151 - INFO - Board uptime 13659
+2025-04-17 13:29:09,152 - INFO - loop counter = 449
+2025-04-17 13:29:27,551 - INFO - Board uptime 13677
+2025-04-17 13:29:27,552 - INFO - loop counter = 450
+2025-04-17 13:29:45,951 - INFO - Board uptime 13695
+2025-04-17 13:29:45,952 - INFO - loop counter = 451
+2025-04-17 13:30:04,351 - INFO - Board uptime 13714
+2025-04-17 13:30:04,352 - INFO - loop counter = 452
+2025-04-17 13:30:22,751 - INFO - Board uptime 13732
+2025-04-17 13:30:22,751 - INFO - loop counter = 453
+2025-04-17 13:30:41,151 - INFO - Board uptime 13751
+2025-04-17 13:30:41,151 - INFO - loop counter = 454
+2025-04-17 13:30:59,550 - INFO - Board uptime 13769
+2025-04-17 13:30:59,551 - INFO - loop counter = 455
+2025-04-17 13:31:17,950 - INFO - Board uptime 13787
+2025-04-17 13:31:17,951 - INFO - loop counter = 456
+2025-04-17 13:31:36,350 - INFO - Board uptime 13806
+2025-04-17 13:31:36,351 - INFO - loop counter = 457
+2025-04-17 13:31:54,750 - INFO - Board uptime 13824
+2025-04-17 13:31:54,751 - INFO - loop counter = 458
+2025-04-17 13:32:13,150 - INFO - Board uptime 13843
+2025-04-17 13:32:13,150 - INFO - loop counter = 459
+2025-04-17 13:32:31,550 - INFO - Board uptime 13861
+2025-04-17 13:32:31,550 - INFO - loop counter = 460
+2025-04-17 13:32:49,950 - INFO - Board uptime 13879
+2025-04-17 13:32:49,950 - INFO - loop counter = 461
+2025-04-17 13:33:08,349 - INFO - Board uptime 13898
+2025-04-17 13:33:08,350 - INFO - loop counter = 462
+2025-04-17 13:33:26,749 - INFO - Board uptime 13916
+2025-04-17 13:33:26,750 - INFO - loop counter = 463
+2025-04-17 13:33:45,149 - INFO - Board uptime 13935
+2025-04-17 13:33:45,150 - INFO - loop counter = 464
+2025-04-17 13:34:03,549 - INFO - Board uptime 13953
+2025-04-17 13:34:03,549 - INFO - loop counter = 465
+2025-04-17 13:34:21,949 - INFO - Board uptime 13971
+2025-04-17 13:34:21,949 - INFO - loop counter = 466
+2025-04-17 13:34:40,349 - INFO - Board uptime 13990
+2025-04-17 13:34:40,349 - INFO - loop counter = 467
+2025-04-17 13:34:58,748 - INFO - Board uptime 14008
+2025-04-17 13:34:58,749 - INFO - loop counter = 468
+2025-04-17 13:35:17,148 - INFO - Board uptime 14027
+2025-04-17 13:35:17,149 - INFO - loop counter = 469
+2025-04-17 13:35:35,548 - INFO - Board uptime 14045
+2025-04-17 13:35:35,549 - INFO - loop counter = 470
+2025-04-17 13:35:53,948 - INFO - Board uptime 14063
+2025-04-17 13:35:53,948 - INFO - loop counter = 471
+2025-04-17 13:36:12,348 - INFO - Board uptime 14082
+2025-04-17 13:36:12,348 - INFO - loop counter = 472
+2025-04-17 13:36:30,748 - INFO - Board uptime 14100
+2025-04-17 13:36:30,748 - INFO - loop counter = 473
+2025-04-17 13:36:49,147 - INFO - Board uptime 14119
+2025-04-17 13:36:49,148 - INFO - loop counter = 474
+2025-04-17 13:37:07,547 - INFO - Board uptime 14137
+2025-04-17 13:37:07,548 - INFO - loop counter = 475
+2025-04-17 13:37:25,947 - INFO - Board uptime 14155
+2025-04-17 13:37:25,948 - INFO - loop counter = 476
+2025-04-17 13:37:44,347 - INFO - Board uptime 14174
+2025-04-17 13:37:44,348 - INFO - loop counter = 477
+2025-04-17 13:38:02,747 - INFO - Board uptime 14192
+2025-04-17 13:38:02,747 - INFO - loop counter = 478
+2025-04-17 13:38:21,147 - INFO - Board uptime 14211
+2025-04-17 13:38:21,147 - INFO - loop counter = 479
+2025-04-17 13:38:39,546 - INFO - Board uptime 14229
+2025-04-17 13:38:39,547 - INFO - loop counter = 480
+2025-04-17 13:38:57,946 - INFO - Board uptime 14247
+2025-04-17 13:38:57,947 - INFO - loop counter = 481
+2025-04-17 13:39:16,346 - INFO - Board uptime 14266
+2025-04-17 13:39:16,347 - INFO - loop counter = 482
+2025-04-17 13:39:34,746 - INFO - Board uptime 14284
+2025-04-17 13:39:34,747 - INFO - loop counter = 483
+2025-04-17 13:39:53,146 - INFO - Board uptime 14303
+2025-04-17 13:39:53,146 - INFO - loop counter = 484
+2025-04-17 13:40:11,546 - INFO - Board uptime 14321
+2025-04-17 13:40:11,546 - INFO - loop counter = 485
+2025-04-17 13:40:29,946 - INFO - Board uptime 14339
+2025-04-17 13:40:29,946 - INFO - loop counter = 486
+2025-04-17 13:40:48,345 - INFO - Board uptime 14358
+2025-04-17 13:40:48,346 - INFO - loop counter = 487
+2025-04-17 13:41:06,745 - INFO - Board uptime 14376
+2025-04-17 13:41:06,746 - INFO - loop counter = 488
+2025-04-17 13:41:25,145 - INFO - Board uptime 14395
+2025-04-17 13:41:25,146 - INFO - loop counter = 489
+2025-04-17 13:41:43,545 - INFO - Board uptime 14413
+2025-04-17 13:41:43,546 - INFO - loop counter = 490
+2025-04-17 13:42:01,945 - INFO - Board uptime 14431
+2025-04-17 13:42:01,945 - INFO - loop counter = 491
+2025-04-17 13:42:20,345 - INFO - Board uptime 14450
+2025-04-17 13:42:20,345 - INFO - loop counter = 492
+2025-04-17 13:42:38,744 - INFO - Board uptime 14468
+2025-04-17 13:42:38,745 - INFO - loop counter = 493
+2025-04-17 13:42:57,144 - INFO - Board uptime 14487
+2025-04-17 13:42:57,145 - INFO - loop counter = 494
+2025-04-17 13:43:15,544 - INFO - Board uptime 14505
+2025-04-17 13:43:15,545 - INFO - loop counter = 495
+2025-04-17 13:43:33,944 - INFO - Board uptime 14523
+2025-04-17 13:43:33,944 - INFO - loop counter = 496
+2025-04-17 13:43:52,344 - INFO - Board uptime 14542
+2025-04-17 13:43:52,344 - INFO - loop counter = 497
+2025-04-17 13:44:10,744 - INFO - Board uptime 14560
+2025-04-17 13:44:10,744 - INFO - loop counter = 498
+2025-04-17 13:44:29,143 - INFO - Board uptime 14579
+2025-04-17 13:44:29,144 - INFO - loop counter = 499
+2025-04-17 13:44:47,543 - INFO - Board uptime 14597
+2025-04-17 13:44:47,544 - INFO - loop counter = 500
+2025-04-17 13:45:05,943 - INFO - Board uptime 14615
+2025-04-17 13:45:05,944 - INFO - loop counter = 501
+2025-04-17 13:45:24,343 - INFO - Board uptime 14634
+2025-04-17 13:45:24,344 - INFO - loop counter = 502
+2025-04-17 13:45:42,743 - INFO - Board uptime 14652
+2025-04-17 13:45:42,743 - INFO - loop counter = 503
+2025-04-17 13:46:01,143 - INFO - Board uptime 14671
+2025-04-17 13:46:01,143 - INFO - loop counter = 504
+2025-04-17 13:46:19,543 - INFO - Board uptime 14689
+2025-04-17 13:46:19,543 - INFO - loop counter = 505
+2025-04-17 13:46:37,942 - INFO - Board uptime 14707
+2025-04-17 13:46:37,943 - INFO - loop counter = 506
+2025-04-17 13:46:56,342 - INFO - Board uptime 14726
+2025-04-17 13:46:56,343 - INFO - loop counter = 507
+2025-04-17 13:47:14,742 - INFO - Board uptime 14744
+2025-04-17 13:47:14,743 - INFO - loop counter = 508
+2025-04-17 13:47:33,142 - INFO - Board uptime 14763
+2025-04-17 13:47:33,142 - INFO - loop counter = 509
+2025-04-17 13:47:51,542 - INFO - Board uptime 14781
+2025-04-17 13:47:51,542 - INFO - loop counter = 510
+2025-04-17 13:48:09,942 - INFO - Board uptime 14799
+2025-04-17 13:48:09,942 - INFO - loop counter = 511
+2025-04-17 13:48:28,342 - INFO - Board uptime 14818
+2025-04-17 13:48:28,342 - INFO - loop counter = 512
+2025-04-17 13:48:46,741 - INFO - Board uptime 14836
+2025-04-17 13:48:46,742 - INFO - loop counter = 513
+2025-04-17 13:49:05,141 - INFO - Board uptime 14855
+2025-04-17 13:49:05,142 - INFO - loop counter = 514
+2025-04-17 13:49:23,541 - INFO - Board uptime 14873
+2025-04-17 13:49:23,542 - INFO - loop counter = 515
+2025-04-17 13:49:41,941 - INFO - Board uptime 14891
+2025-04-17 13:49:41,942 - INFO - loop counter = 516
+2025-04-17 13:50:00,341 - INFO - Board uptime 14910
+2025-04-17 13:50:00,342 - INFO - loop counter = 517
+2025-04-17 13:50:18,741 - INFO - Board uptime 14928
+2025-04-17 13:50:18,741 - INFO - loop counter = 518
+2025-04-17 13:50:37,141 - INFO - Board uptime 14947
+2025-04-17 13:50:37,141 - INFO - loop counter = 519
+2025-04-17 13:50:55,541 - INFO - Board uptime 14965
+2025-04-17 13:50:55,541 - INFO - loop counter = 520
+2025-04-17 13:51:13,940 - INFO - Board uptime 14983
+2025-04-17 13:51:13,941 - INFO - loop counter = 521
+2025-04-17 13:51:32,340 - INFO - Board uptime 15002
+2025-04-17 13:51:32,341 - INFO - loop counter = 522
+2025-04-17 13:51:50,740 - INFO - Board uptime 15020
+2025-04-17 13:51:50,741 - INFO - loop counter = 523
+2025-04-17 13:52:09,140 - INFO - Board uptime 15039
+2025-04-17 13:52:09,141 - INFO - loop counter = 524
+2025-04-17 13:52:27,540 - INFO - Board uptime 15057
+2025-04-17 13:52:27,540 - INFO - loop counter = 525
+2025-04-17 13:52:45,940 - INFO - Board uptime 15075
+2025-04-17 13:52:45,940 - INFO - loop counter = 526
+2025-04-17 13:53:04,340 - INFO - Board uptime 15094
+2025-04-17 13:53:04,340 - INFO - loop counter = 527
+2025-04-17 13:53:22,740 - INFO - Board uptime 15112
+2025-04-17 13:53:22,740 - INFO - loop counter = 528
+2025-04-17 13:53:41,139 - INFO - Board uptime 15131
+2025-04-17 13:53:41,140 - INFO - loop counter = 529
+2025-04-17 13:53:59,539 - INFO - Board uptime 15149
+2025-04-17 13:53:59,540 - INFO - loop counter = 530
+2025-04-17 13:54:17,939 - INFO - Board uptime 15167
+2025-04-17 13:54:17,940 - INFO - loop counter = 531
+2025-04-17 13:54:36,339 - INFO - Board uptime 15186
+2025-04-17 13:54:36,340 - INFO - loop counter = 532
+2025-04-17 13:54:54,739 - INFO - Board uptime 15204
+2025-04-17 13:54:54,739 - INFO - loop counter = 533
+2025-04-17 13:55:13,139 - INFO - Board uptime 15223
+2025-04-17 13:55:13,139 - INFO - loop counter = 534
+2025-04-17 13:55:31,539 - INFO - Board uptime 15241
+2025-04-17 13:55:31,539 - INFO - loop counter = 535
+2025-04-17 13:55:49,938 - INFO - Board uptime 15259
+2025-04-17 13:55:49,939 - INFO - loop counter = 536
+2025-04-17 13:56:08,338 - INFO - Board uptime 15278
+2025-04-17 13:56:08,339 - INFO - loop counter = 537
+2025-04-17 13:56:26,738 - INFO - Board uptime 15296
+2025-04-17 13:56:26,739 - INFO - loop counter = 538
+2025-04-17 13:56:45,138 - INFO - Board uptime 15315
+2025-04-17 13:56:45,139 - INFO - loop counter = 539
+2025-04-17 13:57:03,538 - INFO - Board uptime 15333
+2025-04-17 13:57:03,538 - INFO - loop counter = 540
+2025-04-17 13:57:21,938 - INFO - Board uptime 15351
+2025-04-17 13:57:21,938 - INFO - loop counter = 541
+2025-04-17 13:57:40,338 - INFO - Board uptime 15370
+2025-04-17 13:57:40,338 - INFO - loop counter = 542
+2025-04-17 13:57:58,737 - INFO - Board uptime 15388
+2025-04-17 13:57:58,738 - INFO - loop counter = 543
+2025-04-17 13:58:17,137 - INFO - Board uptime 15407
+2025-04-17 13:58:17,138 - INFO - loop counter = 544
+2025-04-17 13:58:35,537 - INFO - Board uptime 15425
+2025-04-17 13:58:35,538 - INFO - loop counter = 545
+2025-04-17 13:58:53,937 - INFO - Board uptime 15443
+2025-04-17 13:58:53,938 - INFO - loop counter = 546
+2025-04-17 13:59:12,337 - INFO - Board uptime 15462
+2025-04-17 13:59:12,337 - INFO - loop counter = 547
+2025-04-17 13:59:30,737 - INFO - Board uptime 15480
+2025-04-17 13:59:30,737 - INFO - loop counter = 548
+2025-04-17 13:59:49,137 - INFO - Board uptime 15499
+2025-04-17 13:59:49,137 - INFO - loop counter = 549
+2025-04-17 14:00:07,537 - INFO - Board uptime 15517
+2025-04-17 14:00:07,537 - INFO - loop counter = 550
+2025-04-17 14:00:25,936 - INFO - Board uptime 15535
+2025-04-17 14:00:25,937 - INFO - loop counter = 551
+2025-04-17 14:00:44,336 - INFO - Board uptime 15554
+2025-04-17 14:00:44,337 - INFO - loop counter = 552
+2025-04-17 14:01:02,736 - INFO - Board uptime 15572
+2025-04-17 14:01:02,737 - INFO - loop counter = 553
+2025-04-17 14:01:21,136 - INFO - Board uptime 15591
+2025-04-17 14:01:21,136 - INFO - loop counter = 554
+2025-04-17 14:01:39,536 - INFO - Board uptime 15609
+2025-04-17 14:01:39,536 - INFO - loop counter = 555
+2025-04-17 14:01:57,936 - INFO - Board uptime 15627
+2025-04-17 14:01:57,936 - INFO - loop counter = 556
+2025-04-17 14:02:16,335 - INFO - Board uptime 15646
+2025-04-17 14:02:16,336 - INFO - loop counter = 557
+2025-04-17 14:02:34,735 - INFO - Board uptime 15664
+2025-04-17 14:02:34,736 - INFO - loop counter = 558
+2025-04-17 14:02:53,135 - INFO - Board uptime 15683
+2025-04-17 14:02:53,136 - INFO - loop counter = 559
+2025-04-17 14:03:11,535 - INFO - Board uptime 15701
+2025-04-17 14:03:11,536 - INFO - loop counter = 560
+2025-04-17 14:03:29,935 - INFO - Board uptime 15719
+2025-04-17 14:03:29,935 - INFO - loop counter = 561
+2025-04-17 14:03:48,335 - INFO - Board uptime 15738
+2025-04-17 14:03:48,335 - INFO - loop counter = 562
+2025-04-17 14:04:06,735 - INFO - Board uptime 15756
+2025-04-17 14:04:06,735 - INFO - loop counter = 563
+2025-04-17 14:04:25,134 - INFO - Board uptime 15775
+2025-04-17 14:04:25,135 - INFO - loop counter = 564
+2025-04-17 14:04:43,534 - INFO - Board uptime 15793
+2025-04-17 14:04:43,535 - INFO - loop counter = 565
+2025-04-17 14:05:01,934 - INFO - Board uptime 15811
+2025-04-17 14:05:01,935 - INFO - loop counter = 566
+2025-04-17 14:05:20,334 - INFO - Board uptime 15830
+2025-04-17 14:05:20,334 - INFO - loop counter = 567
+2025-04-17 14:05:38,734 - INFO - Board uptime 15848
+2025-04-17 14:05:38,734 - INFO - loop counter = 568
+2025-04-17 14:05:57,134 - INFO - Board uptime 15867
+2025-04-17 14:05:57,134 - INFO - loop counter = 569
+2025-04-17 14:06:15,534 - INFO - Board uptime 15885
+2025-04-17 14:06:15,534 - INFO - loop counter = 570
+2025-04-17 14:06:33,933 - INFO - Board uptime 15903
+2025-04-17 14:06:33,934 - INFO - loop counter = 571
+2025-04-17 14:06:52,333 - INFO - Board uptime 15922
+2025-04-17 14:06:52,334 - INFO - loop counter = 572
+2025-04-17 14:07:10,733 - INFO - Board uptime 15940
+2025-04-17 14:07:10,734 - INFO - loop counter = 573
+2025-04-17 14:07:29,133 - INFO - Board uptime 15959
+2025-04-17 14:07:29,133 - INFO - loop counter = 574
+2025-04-17 14:07:47,533 - INFO - Board uptime 15977
+2025-04-17 14:07:47,533 - INFO - loop counter = 575
+2025-04-17 14:08:05,933 - INFO - Board uptime 15995
+2025-04-17 14:08:05,933 - INFO - loop counter = 576
+2025-04-17 14:08:24,332 - INFO - Board uptime 16014
+2025-04-17 14:08:24,333 - INFO - loop counter = 577
+2025-04-17 14:08:42,732 - INFO - Board uptime 16032
+2025-04-17 14:08:42,733 - INFO - loop counter = 578
+2025-04-17 14:09:01,132 - INFO - Board uptime 16051
+2025-04-17 14:09:01,133 - INFO - loop counter = 579
+2025-04-17 14:09:19,532 - INFO - Board uptime 16069
+2025-04-17 14:09:19,533 - INFO - loop counter = 580
+2025-04-17 14:09:37,932 - INFO - Board uptime 16087
+2025-04-17 14:09:37,932 - INFO - loop counter = 581
+2025-04-17 14:09:56,332 - INFO - Board uptime 16106
+2025-04-17 14:09:56,332 - INFO - loop counter = 582
+2025-04-17 14:10:14,732 - INFO - Board uptime 16124
+2025-04-17 14:10:14,732 - INFO - loop counter = 583
+2025-04-17 14:10:33,131 - INFO - Board uptime 16143
+2025-04-17 14:10:33,132 - INFO - loop counter = 584
+2025-04-17 14:10:51,531 - INFO - Board uptime 16161
+2025-04-17 14:10:51,532 - INFO - loop counter = 585
+2025-04-17 14:11:09,931 - INFO - Board uptime 16179
+2025-04-17 14:11:09,932 - INFO - loop counter = 586
+2025-04-17 14:11:28,331 - INFO - Board uptime 16198
+2025-04-17 14:11:28,331 - INFO - loop counter = 587
+2025-04-17 14:11:46,731 - INFO - Board uptime 16216
+2025-04-17 14:11:46,731 - INFO - loop counter = 588
+2025-04-17 14:12:05,131 - INFO - Board uptime 16235
+2025-04-17 14:12:05,131 - INFO - loop counter = 589
+2025-04-17 14:12:23,530 - INFO - Board uptime 16253
+2025-04-17 14:12:23,531 - INFO - loop counter = 590
+2025-04-17 14:12:41,930 - INFO - Board uptime 16271
+2025-04-17 14:12:41,931 - INFO - loop counter = 591
+2025-04-17 14:13:00,330 - INFO - Board uptime 16290
+2025-04-17 14:13:00,331 - INFO - loop counter = 592
+2025-04-17 14:13:18,730 - INFO - Board uptime 16308
+2025-04-17 14:13:18,731 - INFO - loop counter = 593
+2025-04-17 14:13:37,130 - INFO - Board uptime 16327
+2025-04-17 14:13:37,130 - INFO - loop counter = 594
+2025-04-17 14:13:55,530 - INFO - Board uptime 16345
+2025-04-17 14:13:55,530 - INFO - loop counter = 595
+2025-04-17 14:14:13,930 - INFO - Board uptime 16363
+2025-04-17 14:14:13,930 - INFO - loop counter = 596
+2025-04-17 14:14:32,329 - INFO - Board uptime 16382
+2025-04-17 14:14:32,330 - INFO - loop counter = 597
+2025-04-17 14:14:50,729 - INFO - Board uptime 16400
+2025-04-17 14:14:50,730 - INFO - loop counter = 598
+2025-04-17 14:15:09,129 - INFO - Board uptime 16419
+2025-04-17 14:15:09,130 - INFO - loop counter = 599
+2025-04-17 14:15:27,529 - INFO - Board uptime 16437
+2025-04-17 14:15:27,529 - INFO - loop counter = 600
+2025-04-17 14:15:45,929 - INFO - Board uptime 16455
+2025-04-17 14:15:45,929 - INFO - loop counter = 601
+2025-04-17 14:16:04,329 - INFO - Board uptime 16474
+2025-04-17 14:16:04,329 - INFO - loop counter = 602
+2025-04-17 14:16:22,728 - INFO - Board uptime 16492
+2025-04-17 14:16:22,729 - INFO - loop counter = 603
+2025-04-17 14:16:41,128 - INFO - Board uptime 16511
+2025-04-17 14:16:41,129 - INFO - loop counter = 604
+2025-04-17 14:16:59,528 - INFO - Board uptime 16529
+2025-04-17 14:16:59,529 - INFO - loop counter = 605
+2025-04-17 14:17:17,928 - INFO - Board uptime 16547
+2025-04-17 14:17:17,929 - INFO - loop counter = 606
+2025-04-17 14:17:36,328 - INFO - Board uptime 16566
+2025-04-17 14:17:36,328 - INFO - loop counter = 607
+2025-04-17 14:17:54,728 - INFO - Board uptime 16584
+2025-04-17 14:17:54,728 - INFO - loop counter = 608
+2025-04-17 14:18:13,128 - INFO - Board uptime 16603
+2025-04-17 14:18:13,128 - INFO - loop counter = 609
+2025-04-17 14:18:31,527 - INFO - Board uptime 16621
+2025-04-17 14:18:31,528 - INFO - loop counter = 610
+2025-04-17 14:18:49,927 - INFO - Board uptime 16639
+2025-04-17 14:18:49,928 - INFO - loop counter = 611
+2025-04-17 14:19:08,327 - INFO - Board uptime 16658
+2025-04-17 14:19:08,328 - INFO - loop counter = 612
+2025-04-17 14:19:26,727 - INFO - Board uptime 16676
+2025-04-17 14:19:26,728 - INFO - loop counter = 613
+2025-04-17 14:19:45,127 - INFO - Board uptime 16695
+2025-04-17 14:19:45,127 - INFO - loop counter = 614
+2025-04-17 14:20:03,527 - INFO - Board uptime 16713
+2025-04-17 14:20:03,527 - INFO - loop counter = 615
+2025-04-17 14:20:21,927 - INFO - Board uptime 16731
+2025-04-17 14:20:21,927 - INFO - loop counter = 616
+2025-04-17 14:20:40,326 - INFO - Board uptime 16750
+2025-04-17 14:20:40,327 - INFO - loop counter = 617
+2025-04-17 14:20:58,726 - INFO - Board uptime 16768
+2025-04-17 14:20:58,727 - INFO - loop counter = 618
+2025-04-17 14:21:17,126 - INFO - Board uptime 16787
+2025-04-17 14:21:17,127 - INFO - loop counter = 619
+2025-04-17 14:21:35,526 - INFO - Board uptime 16805
+2025-04-17 14:21:35,527 - INFO - loop counter = 620
+2025-04-17 14:21:53,926 - INFO - Board uptime 16823
+2025-04-17 14:21:53,926 - INFO - loop counter = 621
+2025-04-17 14:22:12,326 - INFO - Board uptime 16842
+2025-04-17 14:22:12,326 - INFO - loop counter = 622
+2025-04-17 14:22:30,725 - INFO - Board uptime 16860
+2025-04-17 14:22:30,726 - INFO - loop counter = 623
+2025-04-17 14:22:49,125 - INFO - Board uptime 16879
+2025-04-17 14:22:49,126 - INFO - loop counter = 624
+2025-04-17 14:23:07,525 - INFO - Board uptime 16897
+2025-04-17 14:23:07,525 - INFO - loop counter = 625
+2025-04-17 14:23:25,925 - INFO - Board uptime 16915
+2025-04-17 14:23:25,925 - INFO - loop counter = 626
+2025-04-17 14:23:44,324 - INFO - Board uptime 16934
+2025-04-17 14:23:44,325 - INFO - loop counter = 627
+2025-04-17 14:24:02,724 - INFO - Board uptime 16952
+2025-04-17 14:24:02,725 - INFO - loop counter = 628
+2025-04-17 14:24:21,124 - INFO - Board uptime 16971
+2025-04-17 14:24:21,125 - INFO - loop counter = 629
+2025-04-17 14:24:39,524 - INFO - Board uptime 16989
+2025-04-17 14:24:39,524 - INFO - loop counter = 630
+2025-04-17 14:24:57,924 - INFO - Board uptime 17007
+2025-04-17 14:24:57,924 - INFO - loop counter = 631
+2025-04-17 14:25:16,324 - INFO - Board uptime 17026
+2025-04-17 14:25:16,324 - INFO - loop counter = 632
+2025-04-17 14:25:34,723 - INFO - Board uptime 17044
+2025-04-17 14:25:34,724 - INFO - loop counter = 633
+2025-04-17 14:25:53,123 - INFO - Board uptime 17063
+2025-04-17 14:25:53,124 - INFO - loop counter = 634
+2025-04-17 14:26:11,523 - INFO - Board uptime 17081
+2025-04-17 14:26:11,524 - INFO - loop counter = 635
+2025-04-17 14:26:29,923 - INFO - Board uptime 17099
+2025-04-17 14:26:29,923 - INFO - loop counter = 636
+2025-04-17 14:26:48,323 - INFO - Board uptime 17118
+2025-04-17 14:26:48,323 - INFO - loop counter = 637
+2025-04-17 14:27:06,722 - INFO - Board uptime 17136
+2025-04-17 14:27:06,723 - INFO - loop counter = 638
+2025-04-17 14:27:25,122 - INFO - Board uptime 17155
+2025-04-17 14:27:25,123 - INFO - loop counter = 639
+2025-04-17 14:27:43,522 - INFO - Board uptime 17173
+2025-04-17 14:27:43,523 - INFO - loop counter = 640
+2025-04-17 14:28:01,922 - INFO - Board uptime 17191
+2025-04-17 14:28:01,922 - INFO - loop counter = 641
+2025-04-17 14:28:20,322 - INFO - Board uptime 17210
+2025-04-17 14:28:20,322 - INFO - loop counter = 642
+2025-04-17 14:28:38,722 - INFO - Board uptime 17228
+2025-04-17 14:28:38,722 - INFO - loop counter = 643
+2025-04-17 14:28:57,121 - INFO - Board uptime 17247
+2025-04-17 14:28:57,122 - INFO - loop counter = 644
+2025-04-17 14:29:15,521 - INFO - Board uptime 17265
+2025-04-17 14:29:15,522 - INFO - loop counter = 645
+2025-04-17 14:29:33,921 - INFO - Board uptime 17283
+2025-04-17 14:29:33,922 - INFO - loop counter = 646
+2025-04-17 14:29:52,321 - INFO - Board uptime 17302
+2025-04-17 14:29:52,321 - INFO - loop counter = 647
+2025-04-17 14:30:10,721 - INFO - Board uptime 17320
+2025-04-17 14:30:10,721 - INFO - loop counter = 648
+2025-04-17 14:30:29,121 - INFO - Board uptime 17339
+2025-04-17 14:30:29,121 - INFO - loop counter = 649
+2025-04-17 14:30:47,520 - INFO - Board uptime 17357
+2025-04-17 14:30:47,521 - INFO - loop counter = 650
+2025-04-17 14:31:05,920 - INFO - Board uptime 17375
+2025-04-17 14:31:05,921 - INFO - loop counter = 651
+2025-04-17 14:31:24,320 - INFO - Board uptime 17394
+2025-04-17 14:31:24,321 - INFO - loop counter = 652
+2025-04-17 14:31:42,720 - INFO - Board uptime 17412
+2025-04-17 14:31:42,720 - INFO - loop counter = 653
+2025-04-17 14:32:01,120 - INFO - Board uptime 17431
+2025-04-17 14:32:01,120 - INFO - loop counter = 654
+2025-04-17 14:32:19,520 - INFO - Board uptime 17449
+2025-04-17 14:32:19,520 - INFO - loop counter = 655
+2025-04-17 14:32:37,919 - INFO - Board uptime 17467
+2025-04-17 14:32:37,920 - INFO - loop counter = 656
+2025-04-17 14:32:56,319 - INFO - Board uptime 17486
+2025-04-17 14:32:56,320 - INFO - loop counter = 657
+2025-04-17 14:33:14,719 - INFO - Board uptime 17504
+2025-04-17 14:33:14,720 - INFO - loop counter = 658
+2025-04-17 14:33:33,119 - INFO - Board uptime 17523
+2025-04-17 14:33:33,119 - INFO - loop counter = 659
+2025-04-17 14:33:51,519 - INFO - Board uptime 17541
+2025-04-17 14:33:51,519 - INFO - loop counter = 660
+2025-04-17 14:34:09,918 - INFO - Board uptime 17559
+2025-04-17 14:34:09,919 - INFO - loop counter = 661
+2025-04-17 14:34:28,318 - INFO - Board uptime 17578
+2025-04-17 14:34:28,319 - INFO - loop counter = 662
+2025-04-17 14:34:46,718 - INFO - Board uptime 17596
+2025-04-17 14:34:46,719 - INFO - loop counter = 663
+2025-04-17 14:35:05,118 - INFO - Board uptime 17615
+2025-04-17 14:35:05,118 - INFO - loop counter = 664
+2025-04-17 14:35:23,518 - INFO - Board uptime 17633
+2025-04-17 14:35:23,518 - INFO - loop counter = 665
+2025-04-17 14:35:41,918 - INFO - Board uptime 17651
+2025-04-17 14:35:41,918 - INFO - loop counter = 666
+2025-04-17 14:36:00,318 - INFO - Board uptime 17670
+2025-04-17 14:36:00,318 - INFO - loop counter = 667
+2025-04-17 14:36:18,717 - INFO - Board uptime 17688
+2025-04-17 14:36:18,718 - INFO - loop counter = 668
+2025-04-17 14:36:37,117 - INFO - Board uptime 17707
+2025-04-17 14:36:37,118 - INFO - loop counter = 669
+2025-04-17 14:36:55,517 - INFO - Board uptime 17725
+2025-04-17 14:36:55,518 - INFO - loop counter = 670
+2025-04-17 14:37:13,917 - INFO - Board uptime 17743
+2025-04-17 14:37:13,917 - INFO - loop counter = 671
+2025-04-17 14:37:32,317 - INFO - Board uptime 17762
+2025-04-17 14:37:32,317 - INFO - loop counter = 672
+2025-04-17 14:37:50,716 - INFO - Board uptime 17780
+2025-04-17 14:37:50,717 - INFO - loop counter = 673
+2025-04-17 14:38:09,116 - INFO - Board uptime 17799
+2025-04-17 14:38:09,117 - INFO - loop counter = 674
+2025-04-17 14:38:27,516 - INFO - Board uptime 17817
+2025-04-17 14:38:27,517 - INFO - loop counter = 675
+2025-04-17 14:38:45,916 - INFO - Board uptime 17835
+2025-04-17 14:38:45,916 - INFO - loop counter = 676
+2025-04-17 14:39:04,316 - INFO - Board uptime 17854
+2025-04-17 14:39:04,316 - INFO - loop counter = 677
+2025-04-17 14:39:22,716 - INFO - Board uptime 17872
+2025-04-17 14:39:22,716 - INFO - loop counter = 678
+2025-04-17 14:39:41,115 - INFO - Board uptime 17891
+2025-04-17 14:39:41,116 - INFO - loop counter = 679
+2025-04-17 14:39:59,515 - INFO - Board uptime 17909
+2025-04-17 14:39:59,516 - INFO - loop counter = 680
+2025-04-17 14:40:17,915 - INFO - Board uptime 17927
+2025-04-17 14:40:17,916 - INFO - loop counter = 681
+2025-04-17 14:40:36,315 - INFO - Board uptime 17946
+2025-04-17 14:40:36,316 - INFO - loop counter = 682
+2025-04-17 14:40:54,715 - INFO - Board uptime 17964
+2025-04-17 14:40:54,716 - INFO - loop counter = 683
+2025-04-17 14:41:13,115 - INFO - Board uptime 17983
+2025-04-17 14:41:13,115 - INFO - loop counter = 684
+2025-04-17 14:41:31,515 - INFO - Board uptime 18001
+2025-04-17 14:41:31,515 - INFO - loop counter = 685
+2025-04-17 14:41:49,914 - INFO - Board uptime 18019
+2025-04-17 14:41:49,915 - INFO - loop counter = 686
+2025-04-17 14:42:08,314 - INFO - Board uptime 18038
+2025-04-17 14:42:08,315 - INFO - loop counter = 687
+2025-04-17 14:42:26,714 - INFO - Board uptime 18056
+2025-04-17 14:42:26,715 - INFO - loop counter = 688
+2025-04-17 14:42:45,114 - INFO - Board uptime 18075
+2025-04-17 14:42:45,115 - INFO - loop counter = 689
+2025-04-17 14:43:03,514 - INFO - Board uptime 18093
+2025-04-17 14:43:03,514 - INFO - loop counter = 690
+2025-04-17 14:43:21,913 - INFO - Board uptime 18111
+2025-04-17 14:43:21,914 - INFO - loop counter = 691
+2025-04-17 14:43:40,313 - INFO - Board uptime 18130
+2025-04-17 14:43:40,314 - INFO - loop counter = 692
+2025-04-17 14:43:58,713 - INFO - Board uptime 18148
+2025-04-17 14:43:58,714 - INFO - loop counter = 693
+2025-04-17 14:44:17,113 - INFO - Board uptime 18167
+2025-04-17 14:44:17,114 - INFO - loop counter = 694
+2025-04-17 14:44:35,513 - INFO - Board uptime 18185
+2025-04-17 14:44:35,513 - INFO - loop counter = 695
+2025-04-17 14:44:53,913 - INFO - Board uptime 18203
+2025-04-17 14:44:53,913 - INFO - loop counter = 696
+2025-04-17 14:45:12,313 - INFO - Board uptime 18222
+2025-04-17 14:45:12,313 - INFO - loop counter = 697
+2025-04-17 14:45:30,712 - INFO - Board uptime 18240
+2025-04-17 14:45:30,713 - INFO - loop counter = 698
+2025-04-17 14:45:49,112 - INFO - Board uptime 18259
+2025-04-17 14:45:49,113 - INFO - loop counter = 699
+2025-04-17 14:46:07,512 - INFO - Board uptime 18277
+2025-04-17 14:46:07,513 - INFO - loop counter = 700
+2025-04-17 14:46:25,912 - INFO - Board uptime 18295
+2025-04-17 14:46:25,912 - INFO - loop counter = 701
+2025-04-17 14:46:44,312 - INFO - Board uptime 18314
+2025-04-17 14:46:44,312 - INFO - loop counter = 702
+2025-04-17 14:47:02,712 - INFO - Board uptime 18332
+2025-04-17 14:47:02,712 - INFO - loop counter = 703
+2025-04-17 14:47:21,111 - INFO - Board uptime 18351
+2025-04-17 14:47:21,112 - INFO - loop counter = 704
+2025-04-17 14:47:39,511 - INFO - Board uptime 18369
+2025-04-17 14:47:39,512 - INFO - loop counter = 705
+2025-04-17 14:47:57,911 - INFO - Board uptime 18387
+2025-04-17 14:47:57,912 - INFO - loop counter = 706
+2025-04-17 14:48:16,311 - INFO - Board uptime 18406
+2025-04-17 14:48:16,311 - INFO - loop counter = 707
+2025-04-17 14:48:34,711 - INFO - Board uptime 18424
+2025-04-17 14:48:34,711 - INFO - loop counter = 708
+2025-04-17 14:48:53,111 - INFO - Board uptime 18443
+2025-04-17 14:48:53,111 - INFO - loop counter = 709
+2025-04-17 14:49:11,510 - INFO - Board uptime 18461
+2025-04-17 14:49:11,511 - INFO - loop counter = 710
+2025-04-17 14:49:29,910 - INFO - Board uptime 18479
+2025-04-17 14:49:29,911 - INFO - loop counter = 711
+2025-04-17 14:49:48,310 - INFO - Board uptime 18498
+2025-04-17 14:49:48,311 - INFO - loop counter = 712
+2025-04-17 14:50:06,710 - INFO - Board uptime 18516
+2025-04-17 14:50:06,711 - INFO - loop counter = 713
+2025-04-17 14:50:25,110 - INFO - Board uptime 18535
+2025-04-17 14:50:25,110 - INFO - loop counter = 714
+2025-04-17 14:50:43,510 - INFO - Board uptime 18553
+2025-04-17 14:50:43,510 - INFO - loop counter = 715
+2025-04-17 14:51:01,909 - INFO - Board uptime 18571
+2025-04-17 14:51:01,910 - INFO - loop counter = 716
+2025-04-17 14:51:20,309 - INFO - Board uptime 18590
+2025-04-17 14:51:20,310 - INFO - loop counter = 717
+2025-04-17 14:51:38,709 - INFO - Board uptime 18608
+2025-04-17 14:51:38,710 - INFO - loop counter = 718
+2025-04-17 14:51:57,109 - INFO - Board uptime 18627
+2025-04-17 14:51:57,110 - INFO - loop counter = 719
+2025-04-17 14:52:15,509 - INFO - Board uptime 18645
+2025-04-17 14:52:15,509 - INFO - loop counter = 720
+2025-04-17 14:52:33,909 - INFO - Board uptime 18663
+2025-04-17 14:52:33,909 - INFO - loop counter = 721
+2025-04-17 14:52:52,309 - INFO - Board uptime 18682
+2025-04-17 14:52:52,309 - INFO - loop counter = 722
+2025-04-17 14:53:10,708 - INFO - Board uptime 18700
+2025-04-17 14:53:10,709 - INFO - loop counter = 723
+2025-04-17 14:53:29,108 - INFO - Board uptime 18719
+2025-04-17 14:53:29,109 - INFO - loop counter = 724
+2025-04-17 14:53:47,508 - INFO - Board uptime 18737
+2025-04-17 14:53:47,509 - INFO - loop counter = 725
+2025-04-17 14:54:05,908 - INFO - Board uptime 18755
+2025-04-17 14:54:05,908 - INFO - loop counter = 726
+2025-04-17 14:54:24,308 - INFO - Board uptime 18774
+2025-04-17 14:54:24,308 - INFO - loop counter = 727
+2025-04-17 14:54:42,708 - INFO - Board uptime 18792
+2025-04-17 14:54:42,708 - INFO - loop counter = 728
+2025-04-17 14:55:01,107 - INFO - Board uptime 18811
+2025-04-17 14:55:01,108 - INFO - loop counter = 729
+2025-04-17 14:55:19,507 - INFO - Board uptime 18829
+2025-04-17 14:55:19,508 - INFO - loop counter = 730
+2025-04-17 14:55:37,907 - INFO - Board uptime 18847
+2025-04-17 14:55:37,908 - INFO - loop counter = 731
+2025-04-17 14:55:56,307 - INFO - Board uptime 18866
+2025-04-17 14:55:56,308 - INFO - loop counter = 732
+2025-04-17 14:56:14,707 - INFO - Board uptime 18884
+2025-04-17 14:56:14,707 - INFO - loop counter = 733
+2025-04-17 14:56:33,107 - INFO - Board uptime 18903
+2025-04-17 14:56:33,107 - INFO - loop counter = 734
+2025-04-17 14:56:51,507 - INFO - Board uptime 18921
+2025-04-17 14:56:51,507 - INFO - loop counter = 735
+2025-04-17 14:57:09,907 - INFO - Board uptime 18939
+2025-04-17 14:57:09,907 - INFO - loop counter = 736
+2025-04-17 14:57:28,307 - INFO - Board uptime 18958
+2025-04-17 14:57:28,307 - INFO - loop counter = 737
+2025-04-17 14:57:46,706 - INFO - Board uptime 18976
+2025-04-17 14:57:46,707 - INFO - loop counter = 738
+2025-04-17 14:58:05,106 - INFO - Board uptime 18995
+2025-04-17 14:58:05,107 - INFO - loop counter = 739
+2025-04-17 14:58:23,506 - INFO - Board uptime 19013
+2025-04-17 14:58:23,507 - INFO - loop counter = 740
+2025-04-17 14:58:41,906 - INFO - Board uptime 19031
+2025-04-17 14:58:41,907 - INFO - loop counter = 741
+2025-04-17 14:59:00,306 - INFO - Board uptime 19050
+2025-04-17 14:59:00,307 - INFO - loop counter = 742
+2025-04-17 14:59:18,706 - INFO - Board uptime 19068
+2025-04-17 14:59:18,706 - INFO - loop counter = 743
+2025-04-17 14:59:37,106 - INFO - Board uptime 19087
+2025-04-17 14:59:37,106 - INFO - loop counter = 744
+2025-04-17 14:59:55,506 - INFO - Board uptime 19105
+2025-04-17 14:59:55,506 - INFO - loop counter = 745
+2025-04-17 15:00:13,905 - INFO - Board uptime 19123
+2025-04-17 15:00:13,906 - INFO - loop counter = 746
+2025-04-17 15:00:32,305 - INFO - Board uptime 19142
+2025-04-17 15:00:32,306 - INFO - loop counter = 747
+2025-04-17 15:00:50,705 - INFO - Board uptime 19160
+2025-04-17 15:00:50,706 - INFO - loop counter = 748
+2025-04-17 15:01:09,105 - INFO - Board uptime 19179
+2025-04-17 15:01:09,106 - INFO - loop counter = 749
+2025-04-17 15:01:27,505 - INFO - Board uptime 19197
+2025-04-17 15:01:27,506 - INFO - loop counter = 750
+2025-04-17 15:01:45,905 - INFO - Board uptime 19215
+2025-04-17 15:01:45,905 - INFO - loop counter = 751
+2025-04-17 15:02:04,305 - INFO - Board uptime 19234
+2025-04-17 15:02:04,305 - INFO - loop counter = 752
+2025-04-17 15:02:22,705 - INFO - Board uptime 19252
+2025-04-17 15:02:22,705 - INFO - loop counter = 753
+2025-04-17 15:02:41,104 - INFO - Board uptime 19271
+2025-04-17 15:02:41,105 - INFO - loop counter = 754
+2025-04-17 15:02:59,504 - INFO - Board uptime 19289
+2025-04-17 15:02:59,505 - INFO - loop counter = 755
+2025-04-17 15:03:17,904 - INFO - Board uptime 19307
+2025-04-17 15:03:17,905 - INFO - loop counter = 756
+2025-04-17 15:03:36,304 - INFO - Board uptime 19326
+2025-04-17 15:03:36,305 - INFO - loop counter = 757
+2025-04-17 15:03:54,704 - INFO - Board uptime 19344
+2025-04-17 15:03:54,704 - INFO - loop counter = 758
+2025-04-17 15:04:13,104 - INFO - Board uptime 19363
+2025-04-17 15:04:13,104 - INFO - loop counter = 759
+2025-04-17 15:04:31,504 - INFO - Board uptime 19381
+2025-04-17 15:04:31,504 - INFO - loop counter = 760
+2025-04-17 15:04:49,904 - INFO - Board uptime 19399
+2025-04-17 15:04:49,904 - INFO - loop counter = 761
+2025-04-17 15:05:08,303 - INFO - Board uptime 19418
+2025-04-17 15:05:08,304 - INFO - loop counter = 762
+2025-04-17 15:05:26,703 - INFO - Board uptime 19436
+2025-04-17 15:05:26,704 - INFO - loop counter = 763
+2025-04-17 15:05:45,103 - INFO - Board uptime 19455
+2025-04-17 15:05:45,104 - INFO - loop counter = 764
+2025-04-17 15:06:03,503 - INFO - Board uptime 19473
+2025-04-17 15:06:03,504 - INFO - loop counter = 765
+2025-04-17 15:06:21,903 - INFO - Board uptime 19491
+2025-04-17 15:06:21,903 - INFO - loop counter = 766
+2025-04-17 15:06:40,303 - INFO - Board uptime 19510
+2025-04-17 15:06:40,303 - INFO - loop counter = 767
+2025-04-17 15:06:58,703 - INFO - Board uptime 19528
+2025-04-17 15:06:58,703 - INFO - loop counter = 768
+2025-04-17 15:07:17,102 - INFO - Board uptime 19547
+2025-04-17 15:07:17,103 - INFO - loop counter = 769
+2025-04-17 15:07:35,502 - INFO - Board uptime 19565
+2025-04-17 15:07:35,503 - INFO - loop counter = 770
+2025-04-17 15:07:53,902 - INFO - Board uptime 19583
+2025-04-17 15:07:53,903 - INFO - loop counter = 771
+2025-04-17 15:08:12,302 - INFO - Board uptime 19602
+2025-04-17 15:08:12,303 - INFO - loop counter = 772
+2025-04-17 15:08:30,702 - INFO - Board uptime 19620
+2025-04-17 15:08:30,702 - INFO - loop counter = 773
+2025-04-17 15:08:49,102 - INFO - Board uptime 19639
+2025-04-17 15:08:49,102 - INFO - loop counter = 774
+2025-04-17 15:09:07,502 - INFO - Board uptime 19657
+2025-04-17 15:09:07,502 - INFO - loop counter = 775
+2025-04-17 15:09:25,901 - INFO - Board uptime 19675
+2025-04-17 15:09:25,902 - INFO - loop counter = 776
+2025-04-17 15:09:44,301 - INFO - Board uptime 19694
+2025-04-17 15:09:44,302 - INFO - loop counter = 777
+2025-04-17 15:10:02,701 - INFO - Board uptime 19712
+2025-04-17 15:10:02,702 - INFO - loop counter = 778
+2025-04-17 15:10:21,101 - INFO - Board uptime 19731
+2025-04-17 15:10:21,102 - INFO - loop counter = 779
+2025-04-17 15:10:39,501 - INFO - Board uptime 19749
+2025-04-17 15:10:39,501 - INFO - loop counter = 780
+2025-04-17 15:10:57,901 - INFO - Board uptime 19767
+2025-04-17 15:10:57,901 - INFO - loop counter = 781
+2025-04-17 15:11:16,301 - INFO - Board uptime 19786
+2025-04-17 15:11:16,301 - INFO - loop counter = 782
+2025-04-17 15:11:34,700 - INFO - Board uptime 19804
+2025-04-17 15:11:34,701 - INFO - loop counter = 783
+2025-04-17 15:11:53,100 - INFO - Board uptime 19823
+2025-04-17 15:11:53,101 - INFO - loop counter = 784
+2025-04-17 15:12:11,500 - INFO - Board uptime 19841
+2025-04-17 15:12:11,501 - INFO - loop counter = 785
+2025-04-17 15:12:29,900 - INFO - Board uptime 19859
+2025-04-17 15:12:29,901 - INFO - loop counter = 786
+2025-04-17 15:12:48,300 - INFO - Board uptime 19878
+2025-04-17 15:12:48,300 - INFO - loop counter = 787
+2025-04-17 15:13:06,700 - INFO - Board uptime 19896
+2025-04-17 15:13:06,700 - INFO - loop counter = 788
+2025-04-17 15:13:25,100 - INFO - Board uptime 19915
+2025-04-17 15:13:25,100 - INFO - loop counter = 789
+2025-04-17 15:13:43,500 - INFO - Board uptime 19933
+2025-04-17 15:13:43,500 - INFO - loop counter = 790
+2025-04-17 15:14:01,899 - INFO - Board uptime 19951
+2025-04-17 15:14:01,900 - INFO - loop counter = 791
+2025-04-17 15:14:20,299 - INFO - Board uptime 19970
+2025-04-17 15:14:20,300 - INFO - loop counter = 792
+2025-04-17 15:14:38,699 - INFO - Board uptime 19988
+2025-04-17 15:14:38,700 - INFO - loop counter = 793
+2025-04-17 15:14:57,099 - INFO - Board uptime 20007
+2025-04-17 15:14:57,099 - INFO - loop counter = 794
+2025-04-17 15:15:15,499 - INFO - Board uptime 20025
+2025-04-17 15:15:15,499 - INFO - loop counter = 795
+2025-04-17 15:15:33,899 - INFO - Board uptime 20043
+2025-04-17 15:15:33,899 - INFO - loop counter = 796
+2025-04-17 15:15:52,298 - INFO - Board uptime 20062
+2025-04-17 15:15:52,299 - INFO - loop counter = 797
+2025-04-17 15:16:10,698 - INFO - Board uptime 20080
+2025-04-17 15:16:10,699 - INFO - loop counter = 798
+2025-04-17 15:16:29,098 - INFO - Board uptime 20099
+2025-04-17 15:16:29,099 - INFO - loop counter = 799
+2025-04-17 15:16:47,498 - INFO - Board uptime 20117
+2025-04-17 15:16:47,499 - INFO - loop counter = 800
+2025-04-17 15:17:05,898 - INFO - Board uptime 20135
+2025-04-17 15:17:05,898 - INFO - loop counter = 801
+2025-04-17 15:17:24,298 - INFO - Board uptime 20154
+2025-04-17 15:17:24,298 - INFO - loop counter = 802
+2025-04-17 15:17:42,698 - INFO - Board uptime 20172
+2025-04-17 15:17:42,698 - INFO - loop counter = 803
+2025-04-17 15:18:01,097 - INFO - Board uptime 20191
+2025-04-17 15:18:01,098 - INFO - loop counter = 804
+2025-04-17 15:18:19,497 - INFO - Board uptime 20209
+2025-04-17 15:18:19,498 - INFO - loop counter = 805
+2025-04-17 15:18:37,897 - INFO - Board uptime 20227
+2025-04-17 15:18:37,898 - INFO - loop counter = 806
+2025-04-17 15:18:56,297 - INFO - Board uptime 20246
+2025-04-17 15:18:56,297 - INFO - loop counter = 807
+2025-04-17 15:19:14,697 - INFO - Board uptime 20264
+2025-04-17 15:19:14,697 - INFO - loop counter = 808
+2025-04-17 15:19:33,097 - INFO - Board uptime 20283
+2025-04-17 15:19:33,097 - INFO - loop counter = 809
+2025-04-17 15:19:51,496 - INFO - Board uptime 20301
+2025-04-17 15:19:51,497 - INFO - loop counter = 810
+2025-04-17 15:20:09,896 - INFO - Board uptime 20319
+2025-04-17 15:20:09,897 - INFO - loop counter = 811
+2025-04-17 15:20:28,296 - INFO - Board uptime 20338
+2025-04-17 15:20:28,297 - INFO - loop counter = 812
+2025-04-17 15:20:46,696 - INFO - Board uptime 20356
+2025-04-17 15:20:46,697 - INFO - loop counter = 813
+2025-04-17 15:21:05,096 - INFO - Board uptime 20375
+2025-04-17 15:21:05,096 - INFO - loop counter = 814
+2025-04-17 15:21:23,496 - INFO - Board uptime 20393
+2025-04-17 15:21:23,496 - INFO - loop counter = 815
+2025-04-17 15:21:41,896 - INFO - Board uptime 20411
+2025-04-17 15:21:41,896 - INFO - loop counter = 816
+2025-04-17 15:22:00,296 - INFO - Board uptime 20430
+2025-04-17 15:22:00,296 - INFO - loop counter = 817
+2025-04-17 15:22:18,695 - INFO - Board uptime 20448
+2025-04-17 15:22:18,696 - INFO - loop counter = 818
+2025-04-17 15:22:37,095 - INFO - Board uptime 20467
+2025-04-17 15:22:37,096 - INFO - loop counter = 819
+2025-04-17 15:22:55,495 - INFO - Board uptime 20485
+2025-04-17 15:22:55,496 - INFO - loop counter = 820
+2025-04-17 15:23:13,895 - INFO - Board uptime 20503
+2025-04-17 15:23:13,895 - INFO - loop counter = 821
+2025-04-17 15:23:32,295 - INFO - Board uptime 20522
+2025-04-17 15:23:32,295 - INFO - loop counter = 822
+2025-04-17 15:23:50,695 - INFO - Board uptime 20540
+2025-04-17 15:23:50,695 - INFO - loop counter = 823
+2025-04-17 15:24:09,094 - INFO - Board uptime 20559
+2025-04-17 15:24:09,095 - INFO - loop counter = 824
+2025-04-17 15:24:27,494 - INFO - Board uptime 20577
+2025-04-17 15:24:27,495 - INFO - loop counter = 825
+2025-04-17 15:24:45,894 - INFO - Board uptime 20595
+2025-04-17 15:24:45,895 - INFO - loop counter = 826
+2025-04-17 15:25:04,294 - INFO - Board uptime 20614
+2025-04-17 15:25:04,294 - INFO - loop counter = 827
+2025-04-17 15:25:22,694 - INFO - Board uptime 20632
+2025-04-17 15:25:22,694 - INFO - loop counter = 828
+2025-04-17 15:25:41,094 - INFO - Board uptime 20651
+2025-04-17 15:25:41,094 - INFO - loop counter = 829
+2025-04-17 15:25:59,493 - INFO - Board uptime 20669
+2025-04-17 15:25:59,494 - INFO - loop counter = 830
+2025-04-17 15:26:17,893 - INFO - Board uptime 20687
+2025-04-17 15:26:17,894 - INFO - loop counter = 831
+2025-04-17 15:26:36,293 - INFO - Board uptime 20706
+2025-04-17 15:26:36,294 - INFO - loop counter = 832
+2025-04-17 15:26:54,693 - INFO - Board uptime 20724
+2025-04-17 15:26:54,694 - INFO - loop counter = 833
+2025-04-17 15:27:13,093 - INFO - Board uptime 20743
+2025-04-17 15:27:13,093 - INFO - loop counter = 834
+2025-04-17 15:27:31,493 - INFO - Board uptime 20761
+2025-04-17 15:27:31,493 - INFO - loop counter = 835
+2025-04-17 15:27:49,893 - INFO - Board uptime 20779
+2025-04-17 15:27:49,893 - INFO - loop counter = 836
+2025-04-17 15:28:08,292 - INFO - Board uptime 20798
+2025-04-17 15:28:08,293 - INFO - loop counter = 837
+2025-04-17 15:28:26,692 - INFO - Board uptime 20816
+2025-04-17 15:28:26,693 - INFO - loop counter = 838
+2025-04-17 15:28:45,092 - INFO - Board uptime 20835
+2025-04-17 15:28:45,093 - INFO - loop counter = 839
+2025-04-17 15:29:03,492 - INFO - Board uptime 20853
+2025-04-17 15:29:03,493 - INFO - loop counter = 840
+2025-04-17 15:29:21,892 - INFO - Board uptime 20871
+2025-04-17 15:29:21,893 - INFO - loop counter = 841
+2025-04-17 15:29:40,292 - INFO - Board uptime 20890
+2025-04-17 15:29:40,292 - INFO - loop counter = 842
+2025-04-17 15:29:58,691 - INFO - Board uptime 20908
+2025-04-17 15:29:58,692 - INFO - loop counter = 843
+2025-04-17 15:30:17,091 - INFO - Board uptime 20927
+2025-04-17 15:30:17,092 - INFO - loop counter = 844
+2025-04-17 15:30:35,491 - INFO - Board uptime 20945
+2025-04-17 15:30:35,492 - INFO - loop counter = 845
+2025-04-17 15:30:53,891 - INFO - Board uptime 20963
+2025-04-17 15:30:53,892 - INFO - loop counter = 846
+2025-04-17 15:31:12,291 - INFO - Board uptime 20982
+2025-04-17 15:31:12,291 - INFO - loop counter = 847
+2025-04-17 15:31:30,691 - INFO - Board uptime 21000
+2025-04-17 15:31:30,691 - INFO - loop counter = 848
+2025-04-17 15:31:49,090 - INFO - Board uptime 21019
+2025-04-17 15:31:49,091 - INFO - loop counter = 849
+2025-04-17 15:32:07,490 - INFO - Board uptime 21037
+2025-04-17 15:32:07,491 - INFO - loop counter = 850
+2025-04-17 15:32:25,890 - INFO - Board uptime 21055
+2025-04-17 15:32:25,891 - INFO - loop counter = 851
+2025-04-17 15:32:44,290 - INFO - Board uptime 21074
+2025-04-17 15:32:44,290 - INFO - loop counter = 852
+2025-04-17 15:33:02,690 - INFO - Board uptime 21092
+2025-04-17 15:33:02,690 - INFO - loop counter = 853
+2025-04-17 15:33:21,089 - INFO - Board uptime 21111
+2025-04-17 15:33:21,090 - INFO - loop counter = 854
+2025-04-17 15:33:39,489 - INFO - Board uptime 21129
+2025-04-17 15:33:39,490 - INFO - loop counter = 855
+2025-04-17 15:33:57,889 - INFO - Board uptime 21147
+2025-04-17 15:33:57,889 - INFO - loop counter = 856
+2025-04-17 15:34:16,289 - INFO - Board uptime 21166
+2025-04-17 15:34:16,289 - INFO - loop counter = 857
+2025-04-17 15:34:34,689 - INFO - Board uptime 21184
+2025-04-17 15:34:34,689 - INFO - loop counter = 858
+2025-04-17 15:34:53,088 - INFO - Board uptime 21203
+2025-04-17 15:34:53,089 - INFO - loop counter = 859
+2025-04-17 15:35:11,488 - INFO - Board uptime 21221
+2025-04-17 15:35:11,489 - INFO - loop counter = 860
+2025-04-17 15:35:29,888 - INFO - Board uptime 21239
+2025-04-17 15:35:29,889 - INFO - loop counter = 861
+2025-04-17 15:35:48,288 - INFO - Board uptime 21258
+2025-04-17 15:35:48,288 - INFO - loop counter = 862
+2025-04-17 15:36:06,688 - INFO - Board uptime 21276
+2025-04-17 15:36:06,688 - INFO - loop counter = 863
+2025-04-17 15:36:25,088 - INFO - Board uptime 21295
+2025-04-17 15:36:25,088 - INFO - loop counter = 864
+2025-04-17 15:36:43,487 - INFO - Board uptime 21313
+2025-04-17 15:36:43,488 - INFO - loop counter = 865
+2025-04-17 15:37:01,887 - INFO - Board uptime 21331
+2025-04-17 15:37:01,888 - INFO - loop counter = 866
+2025-04-17 15:37:20,287 - INFO - Board uptime 21350
+2025-04-17 15:37:20,287 - INFO - loop counter = 867
+2025-04-17 15:37:38,687 - INFO - Board uptime 21368
+2025-04-17 15:37:38,687 - INFO - loop counter = 868
+2025-04-17 15:37:57,087 - INFO - Board uptime 21387
+2025-04-17 15:37:57,087 - INFO - loop counter = 869
+2025-04-17 15:38:15,486 - INFO - Board uptime 21405
+2025-04-17 15:38:15,487 - INFO - loop counter = 870
+2025-04-17 15:38:33,886 - INFO - Board uptime 21423
+2025-04-17 15:38:33,887 - INFO - loop counter = 871
+2025-04-17 15:38:52,286 - INFO - Board uptime 21442
+2025-04-17 15:38:52,287 - INFO - loop counter = 872
+2025-04-17 15:39:10,686 - INFO - Board uptime 21460
+2025-04-17 15:39:10,686 - INFO - loop counter = 873
+2025-04-17 15:39:29,086 - INFO - Board uptime 21479
+2025-04-17 15:39:29,086 - INFO - loop counter = 874
+2025-04-17 15:39:47,486 - INFO - Board uptime 21497
+2025-04-17 15:39:47,486 - INFO - loop counter = 875
+2025-04-17 15:40:05,885 - INFO - Board uptime 21515
+2025-04-17 15:40:05,886 - INFO - loop counter = 876
+2025-04-17 15:40:24,285 - INFO - Board uptime 21534
+2025-04-17 15:40:24,286 - INFO - loop counter = 877
+2025-04-17 15:40:42,685 - INFO - Board uptime 21552
+2025-04-17 15:40:42,686 - INFO - loop counter = 878
+2025-04-17 15:41:01,085 - INFO - Board uptime 21571
+2025-04-17 15:41:01,085 - INFO - loop counter = 879
+2025-04-17 15:41:19,485 - INFO - Board uptime 21589
+2025-04-17 15:41:19,485 - INFO - loop counter = 880
+2025-04-17 15:41:37,885 - INFO - Board uptime 21607
+2025-04-17 15:41:37,885 - INFO - loop counter = 881
+2025-04-17 15:41:56,284 - INFO - Board uptime 21626
+2025-04-17 15:41:56,285 - INFO - loop counter = 882
+2025-04-17 15:42:14,684 - INFO - Board uptime 21644
+2025-04-17 15:42:14,685 - INFO - loop counter = 883
+2025-04-17 15:42:33,084 - INFO - Board uptime 21663
+2025-04-17 15:42:33,085 - INFO - loop counter = 884
+2025-04-17 15:42:51,484 - INFO - Board uptime 21681
+2025-04-17 15:42:51,484 - INFO - loop counter = 885
+2025-04-17 15:43:09,884 - INFO - Board uptime 21699
+2025-04-17 15:43:09,884 - INFO - loop counter = 886
+2025-04-17 15:43:28,284 - INFO - Board uptime 21718
+2025-04-17 15:43:28,284 - INFO - loop counter = 887
+2025-04-17 15:43:46,683 - INFO - Board uptime 21736
+2025-04-17 15:43:46,684 - INFO - loop counter = 888
+2025-04-17 15:44:05,083 - INFO - Board uptime 21755
+2025-04-17 15:44:05,084 - INFO - loop counter = 889
+2025-04-17 15:44:23,483 - INFO - Board uptime 21773
+2025-04-17 15:44:23,484 - INFO - loop counter = 890
+2025-04-17 15:44:41,883 - INFO - Board uptime 21791
+2025-04-17 15:44:41,883 - INFO - loop counter = 891
+2025-04-17 15:45:00,283 - INFO - Board uptime 21810
+2025-04-17 15:45:00,283 - INFO - loop counter = 892
+2025-04-17 15:45:18,683 - INFO - Board uptime 21828
+2025-04-17 15:45:18,683 - INFO - loop counter = 893
+2025-04-17 15:45:37,082 - INFO - Board uptime 21847
+2025-04-17 15:45:37,083 - INFO - loop counter = 894
+2025-04-17 15:45:55,482 - INFO - Board uptime 21865
+2025-04-17 15:45:55,483 - INFO - loop counter = 895
+2025-04-17 15:46:13,882 - INFO - Board uptime 21883
+2025-04-17 15:46:13,883 - INFO - loop counter = 896
+2025-04-17 15:46:32,282 - INFO - Board uptime 21902
+2025-04-17 15:46:32,282 - INFO - loop counter = 897
+2025-04-17 15:46:50,682 - INFO - Board uptime 21920
+2025-04-17 15:46:50,682 - INFO - loop counter = 898
+2025-04-17 15:47:09,082 - INFO - Board uptime 21939
+2025-04-17 15:47:09,082 - INFO - loop counter = 899
+2025-04-17 15:47:27,481 - INFO - Board uptime 21957
+2025-04-17 15:47:27,482 - INFO - loop counter = 900
+2025-04-17 15:47:45,881 - INFO - Board uptime 21975
+2025-04-17 15:47:45,882 - INFO - loop counter = 901
+2025-04-17 15:48:04,281 - INFO - Board uptime 21994
+2025-04-17 15:48:04,282 - INFO - loop counter = 902
+2025-04-17 15:48:22,681 - INFO - Board uptime 22012
+2025-04-17 15:48:22,681 - INFO - loop counter = 903
+2025-04-17 15:48:41,081 - INFO - Board uptime 22031
+2025-04-17 15:48:41,081 - INFO - loop counter = 904
+2025-04-17 15:48:59,481 - INFO - Board uptime 22049
+2025-04-17 15:48:59,481 - INFO - loop counter = 905
+2025-04-17 15:49:17,880 - INFO - Board uptime 22067
+2025-04-17 15:49:17,881 - INFO - loop counter = 906
+2025-04-17 15:49:36,280 - INFO - Board uptime 22086
+2025-04-17 15:49:36,281 - INFO - loop counter = 907
+2025-04-17 15:49:54,680 - INFO - Board uptime 22104
+2025-04-17 15:49:54,681 - INFO - loop counter = 908
+2025-04-17 15:50:13,080 - INFO - Board uptime 22123
+2025-04-17 15:50:13,080 - INFO - loop counter = 909
+2025-04-17 15:50:31,480 - INFO - Board uptime 22141
+2025-04-17 15:50:31,480 - INFO - loop counter = 910
+2025-04-17 15:50:49,880 - INFO - Board uptime 22159
+2025-04-17 15:50:49,880 - INFO - loop counter = 911
+2025-04-17 15:51:08,279 - INFO - Board uptime 22178
+2025-04-17 15:51:08,280 - INFO - loop counter = 912
+2025-04-17 15:51:26,679 - INFO - Board uptime 22196
+2025-04-17 15:51:26,680 - INFO - loop counter = 913
+2025-04-17 15:51:45,079 - INFO - Board uptime 22215
+2025-04-17 15:51:45,080 - INFO - loop counter = 914
+2025-04-17 15:52:03,479 - INFO - Board uptime 22233
+2025-04-17 15:52:03,479 - INFO - loop counter = 915
+2025-04-17 15:52:21,879 - INFO - Board uptime 22251
+2025-04-17 15:52:21,879 - INFO - loop counter = 916
+2025-04-17 15:52:40,279 - INFO - Board uptime 22270
+2025-04-17 15:52:40,279 - INFO - loop counter = 917
+2025-04-17 15:52:58,678 - INFO - Board uptime 22288
+2025-04-17 15:52:58,679 - INFO - loop counter = 918
+2025-04-17 15:53:17,078 - INFO - Board uptime 22307
+2025-04-17 15:53:17,079 - INFO - loop counter = 919
+2025-04-17 15:53:35,478 - INFO - Board uptime 22325
+2025-04-17 15:53:35,479 - INFO - loop counter = 920
+2025-04-17 15:53:53,878 - INFO - Board uptime 22343
+2025-04-17 15:53:53,878 - INFO - loop counter = 921
+2025-04-17 15:54:12,278 - INFO - Board uptime 22362
+2025-04-17 15:54:12,278 - INFO - loop counter = 922
+2025-04-17 15:54:30,678 - INFO - Board uptime 22380
+2025-04-17 15:54:30,678 - INFO - loop counter = 923
+2025-04-17 15:54:49,077 - INFO - Board uptime 22399
+2025-04-17 15:54:49,078 - INFO - loop counter = 924
+2025-04-17 15:55:07,477 - INFO - Board uptime 22417
+2025-04-17 15:55:07,478 - INFO - loop counter = 925
+2025-04-17 15:55:25,877 - INFO - Board uptime 22435
+2025-04-17 15:55:25,878 - INFO - loop counter = 926
+2025-04-17 15:55:44,277 - INFO - Board uptime 22454
+2025-04-17 15:55:44,278 - INFO - loop counter = 927
+2025-04-17 15:56:02,677 - INFO - Board uptime 22472
+2025-04-17 15:56:02,677 - INFO - loop counter = 928
+2025-04-17 15:56:21,077 - INFO - Board uptime 22491
+2025-04-17 15:56:21,077 - INFO - loop counter = 929
+2025-04-17 15:56:39,477 - INFO - Board uptime 22509
+2025-04-17 15:56:39,477 - INFO - loop counter = 930
+2025-04-17 15:56:57,876 - INFO - Board uptime 22527
+2025-04-17 15:56:57,877 - INFO - loop counter = 931
+2025-04-17 15:57:16,276 - INFO - Board uptime 22546
+2025-04-17 15:57:16,277 - INFO - loop counter = 932
+2025-04-17 15:57:34,676 - INFO - Board uptime 22564
+2025-04-17 15:57:34,677 - INFO - loop counter = 933
+2025-04-17 15:57:53,076 - INFO - Board uptime 22583
+2025-04-17 15:57:53,076 - INFO - loop counter = 934
+2025-04-17 15:58:11,476 - INFO - Board uptime 22601
+2025-04-17 15:58:11,476 - INFO - loop counter = 935
+2025-04-17 15:58:29,876 - INFO - Board uptime 22619
+2025-04-17 15:58:29,876 - INFO - loop counter = 936
+2025-04-17 15:58:48,275 - INFO - Board uptime 22638
+2025-04-17 15:58:48,276 - INFO - loop counter = 937
+2025-04-17 15:59:06,675 - INFO - Board uptime 22656
+2025-04-17 15:59:06,676 - INFO - loop counter = 938
+2025-04-17 15:59:25,075 - INFO - Board uptime 22675
+2025-04-17 15:59:25,076 - INFO - loop counter = 939
+2025-04-17 15:59:43,475 - INFO - Board uptime 22693
+2025-04-17 15:59:43,476 - INFO - loop counter = 940
+2025-04-17 16:00:01,875 - INFO - Board uptime 22711
+2025-04-17 16:00:01,875 - INFO - loop counter = 941
+2025-04-17 16:00:20,275 - INFO - Board uptime 22730
+2025-04-17 16:00:20,275 - INFO - loop counter = 942
+2025-04-17 16:00:38,674 - INFO - Board uptime 22748
+2025-04-17 16:00:38,675 - INFO - loop counter = 943
+2025-04-17 16:00:57,074 - INFO - Board uptime 22767
+2025-04-17 16:00:57,075 - INFO - loop counter = 944
+2025-04-17 16:01:15,474 - INFO - Board uptime 22785
+2025-04-17 16:01:15,475 - INFO - loop counter = 945
+2025-04-17 16:01:33,874 - INFO - Board uptime 22803
+2025-04-17 16:01:33,875 - INFO - loop counter = 946
+2025-04-17 16:01:52,274 - INFO - Board uptime 22822
+2025-04-17 16:01:52,275 - INFO - loop counter = 947
+2025-04-17 16:02:10,674 - INFO - Board uptime 22840
+2025-04-17 16:02:10,674 - INFO - loop counter = 948
+2025-04-17 16:02:29,073 - INFO - Board uptime 22859
+2025-04-17 16:02:29,074 - INFO - loop counter = 949
+2025-04-17 16:02:47,473 - INFO - Board uptime 22877
+2025-04-17 16:02:47,474 - INFO - loop counter = 950
+2025-04-17 16:03:05,873 - INFO - Board uptime 22895
+2025-04-17 16:03:05,874 - INFO - loop counter = 951
+2025-04-17 16:03:24,273 - INFO - Board uptime 22914
+2025-04-17 16:03:24,274 - INFO - loop counter = 952
+2025-04-17 16:03:42,673 - INFO - Board uptime 22932
+2025-04-17 16:03:42,673 - INFO - loop counter = 953
+2025-04-17 16:04:01,073 - INFO - Board uptime 22951
+2025-04-17 16:04:01,073 - INFO - loop counter = 954
+2025-04-17 16:04:19,473 - INFO - Board uptime 22969
+2025-04-17 16:04:19,473 - INFO - loop counter = 955
+2025-04-17 16:04:37,872 - INFO - Board uptime 22987
+2025-04-17 16:04:37,873 - INFO - loop counter = 956
+2025-04-17 16:04:56,272 - INFO - Board uptime 23006
+2025-04-17 16:04:56,273 - INFO - loop counter = 957
+2025-04-17 16:05:14,672 - INFO - Board uptime 23024
+2025-04-17 16:05:14,672 - INFO - loop counter = 958
+2025-04-17 16:05:33,072 - INFO - Board uptime 23043
+2025-04-17 16:05:33,072 - INFO - loop counter = 959
+2025-04-17 16:05:51,472 - INFO - Board uptime 23061
+2025-04-17 16:05:51,472 - INFO - loop counter = 960
+2025-04-17 16:06:09,871 - INFO - Board uptime 23079
+2025-04-17 16:06:09,872 - INFO - loop counter = 961
+2025-04-17 16:06:28,271 - INFO - Board uptime 23098
+2025-04-17 16:06:28,272 - INFO - loop counter = 962
+2025-04-17 16:06:46,671 - INFO - Board uptime 23116
+2025-04-17 16:06:46,672 - INFO - loop counter = 963
+2025-04-17 16:07:05,071 - INFO - Board uptime 23135
+2025-04-17 16:07:05,071 - INFO - loop counter = 964
+2025-04-17 16:07:23,471 - INFO - Board uptime 23153
+2025-04-17 16:07:23,471 - INFO - loop counter = 965
+2025-04-17 16:07:41,871 - INFO - Board uptime 23171
+2025-04-17 16:07:41,871 - INFO - loop counter = 966
+2025-04-17 16:08:00,270 - INFO - Board uptime 23190
+2025-04-17 16:08:00,271 - INFO - loop counter = 967
+2025-04-17 16:08:18,670 - INFO - Board uptime 23208
+2025-04-17 16:08:18,671 - INFO - loop counter = 968
+2025-04-17 16:08:37,070 - INFO - Board uptime 23227
+2025-04-17 16:08:37,071 - INFO - loop counter = 969
+2025-04-17 16:08:55,470 - INFO - Board uptime 23245
+2025-04-17 16:08:55,471 - INFO - loop counter = 970
+2025-04-17 16:09:13,870 - INFO - Board uptime 23263
+2025-04-17 16:09:13,870 - INFO - loop counter = 971
+2025-04-17 16:09:32,270 - INFO - Board uptime 23282
+2025-04-17 16:09:32,270 - INFO - loop counter = 972
+2025-04-17 16:09:50,669 - INFO - Board uptime 23300
+2025-04-17 16:09:50,670 - INFO - loop counter = 973
+2025-04-17 16:10:09,069 - INFO - Board uptime 23319
+2025-04-17 16:10:09,070 - INFO - loop counter = 974
+2025-04-17 16:10:27,469 - INFO - Board uptime 23337
+2025-04-17 16:10:27,470 - INFO - loop counter = 975
+2025-04-17 16:10:45,869 - INFO - Board uptime 23355
+2025-04-17 16:10:45,869 - INFO - loop counter = 976
+2025-04-17 16:11:04,269 - INFO - Board uptime 23374
+2025-04-17 16:11:04,269 - INFO - loop counter = 977
+2025-04-17 16:11:22,669 - INFO - Board uptime 23392
+2025-04-17 16:11:22,669 - INFO - loop counter = 978
+2025-04-17 16:11:41,068 - INFO - Board uptime 23411
+2025-04-17 16:11:41,069 - INFO - loop counter = 979
+2025-04-17 16:11:59,468 - INFO - Board uptime 23429
+2025-04-17 16:11:59,469 - INFO - loop counter = 980
+2025-04-17 16:12:17,868 - INFO - Board uptime 23447
+2025-04-17 16:12:17,869 - INFO - loop counter = 981
+2025-04-17 16:12:36,268 - INFO - Board uptime 23466
+2025-04-17 16:12:36,268 - INFO - loop counter = 982
+2025-04-17 16:12:54,668 - INFO - Board uptime 23484
+2025-04-17 16:12:54,668 - INFO - loop counter = 983
+2025-04-17 16:13:13,068 - INFO - Board uptime 23503
+2025-04-17 16:13:13,068 - INFO - loop counter = 984
+2025-04-17 16:13:31,467 - INFO - Board uptime 23521
+2025-04-17 16:13:31,468 - INFO - loop counter = 985
+2025-04-17 16:13:49,867 - INFO - Board uptime 23539
+2025-04-17 16:13:49,868 - INFO - loop counter = 986
+2025-04-17 16:14:08,267 - INFO - Board uptime 23558
+2025-04-17 16:14:08,268 - INFO - loop counter = 987
+2025-04-17 16:14:26,667 - INFO - Board uptime 23576
+2025-04-17 16:14:26,667 - INFO - loop counter = 988
+2025-04-17 16:14:45,067 - INFO - Board uptime 23595
+2025-04-17 16:14:45,067 - INFO - loop counter = 989
+2025-04-17 16:15:03,467 - INFO - Board uptime 23613
+2025-04-17 16:15:03,467 - INFO - loop counter = 990
+2025-04-17 16:15:21,866 - INFO - Board uptime 23631
+2025-04-17 16:15:21,867 - INFO - loop counter = 991
+2025-04-17 16:15:40,266 - INFO - Board uptime 23650
+2025-04-17 16:15:40,267 - INFO - loop counter = 992
+2025-04-17 16:15:58,666 - INFO - Board uptime 23668
+2025-04-17 16:15:58,667 - INFO - loop counter = 993
+2025-04-17 16:16:17,066 - INFO - Board uptime 23687
+2025-04-17 16:16:17,067 - INFO - loop counter = 994
+2025-04-17 16:16:35,466 - INFO - Board uptime 23705
+2025-04-17 16:16:35,467 - INFO - loop counter = 995
+2025-04-17 16:16:53,866 - INFO - Board uptime 23723
+2025-04-17 16:16:53,866 - INFO - loop counter = 996
+2025-04-17 16:17:12,265 - INFO - Board uptime 23742
+2025-04-17 16:17:12,266 - INFO - loop counter = 997
+2025-04-17 16:17:30,665 - INFO - Board uptime 23760
+2025-04-17 16:17:30,666 - INFO - loop counter = 998
+2025-04-17 16:17:49,065 - INFO - Board uptime 23779
+2025-04-17 16:17:49,066 - INFO - loop counter = 999
+2025-04-17 16:18:07,465 - INFO - Board uptime 23797
+2025-04-17 16:18:07,466 - INFO - loop counter = 1000
+2025-04-17 16:18:25,865 - INFO - Board uptime 23815
+2025-04-17 16:18:25,865 - INFO - loop counter = 1001
+2025-04-17 16:18:44,265 - INFO - Board uptime 23834
+2025-04-17 16:18:44,265 - INFO - loop counter = 1002
+2025-04-17 16:19:02,664 - INFO - Board uptime 23852
+2025-04-17 16:19:02,665 - INFO - loop counter = 1003
+2025-04-17 16:19:21,064 - INFO - Board uptime 23871
+2025-04-17 16:19:21,065 - INFO - loop counter = 1004
+2025-04-17 16:19:39,464 - INFO - Board uptime 23889
+2025-04-17 16:19:39,465 - INFO - loop counter = 1005
+2025-04-17 16:19:57,864 - INFO - Board uptime 23907
+2025-04-17 16:19:57,865 - INFO - loop counter = 1006
+2025-04-17 16:20:16,264 - INFO - Board uptime 23926
+2025-04-17 16:20:16,264 - INFO - loop counter = 1007
+2025-04-17 16:20:34,664 - INFO - Board uptime 23944
+2025-04-17 16:20:34,664 - INFO - loop counter = 1008
+2025-04-17 16:20:53,064 - INFO - Board uptime 23963
+2025-04-17 16:20:53,064 - INFO - loop counter = 1009
+2025-04-17 16:21:11,463 - INFO - Board uptime 23981
+2025-04-17 16:21:11,464 - INFO - loop counter = 1010
+2025-04-17 16:21:29,863 - INFO - Board uptime 23999
+2025-04-17 16:21:29,864 - INFO - loop counter = 1011
+2025-04-17 16:21:48,263 - INFO - Board uptime 24018
+2025-04-17 16:21:48,264 - INFO - loop counter = 1012
+2025-04-17 16:22:06,663 - INFO - Board uptime 24036
+2025-04-17 16:22:06,663 - INFO - loop counter = 1013
+2025-04-17 16:22:25,063 - INFO - Board uptime 24055
+2025-04-17 16:22:25,063 - INFO - loop counter = 1014
+2025-04-17 16:22:43,463 - INFO - Board uptime 24073
+2025-04-17 16:22:43,463 - INFO - loop counter = 1015
+2025-04-17 16:23:01,862 - INFO - Board uptime 24091
+2025-04-17 16:23:01,863 - INFO - loop counter = 1016
+2025-04-17 16:23:20,262 - INFO - Board uptime 24110
+2025-04-17 16:23:20,263 - INFO - loop counter = 1017
+2025-04-17 16:23:38,662 - INFO - Board uptime 24128
+2025-04-17 16:23:38,663 - INFO - loop counter = 1018
+2025-04-17 16:23:57,062 - INFO - Board uptime 24147
+2025-04-17 16:23:57,062 - INFO - loop counter = 1019
+2025-04-17 16:24:15,462 - INFO - Board uptime 24165
+2025-04-17 16:24:15,462 - INFO - loop counter = 1020
+2025-04-17 16:24:33,862 - INFO - Board uptime 24183
+2025-04-17 16:24:33,862 - INFO - loop counter = 1021
+2025-04-17 16:24:52,261 - INFO - Board uptime 24202
+2025-04-17 16:24:52,262 - INFO - loop counter = 1022
+2025-04-17 16:25:10,661 - INFO - Board uptime 24220
+2025-04-17 16:25:10,662 - INFO - loop counter = 1023
+2025-04-17 16:25:29,061 - INFO - Board uptime 24239
+2025-04-17 16:25:29,062 - INFO - loop counter = 1024
+2025-04-17 16:25:47,461 - INFO - Board uptime 24257
+2025-04-17 16:25:47,461 - INFO - loop counter = 1025
+2025-04-17 16:26:05,861 - INFO - Board uptime 24275
+2025-04-17 16:26:05,861 - INFO - loop counter = 1026
+2025-04-17 16:26:24,261 - INFO - Board uptime 24294
+2025-04-17 16:26:24,261 - INFO - loop counter = 1027
+2025-04-17 16:26:42,660 - INFO - Board uptime 24312
+2025-04-17 16:26:42,661 - INFO - loop counter = 1028
+2025-04-17 16:27:01,060 - INFO - Board uptime 24331
+2025-04-17 16:27:01,061 - INFO - loop counter = 1029
+2025-04-17 16:27:19,460 - INFO - Board uptime 24349
+2025-04-17 16:27:19,461 - INFO - loop counter = 1030
+2025-04-17 16:27:37,860 - INFO - Board uptime 24367
+2025-04-17 16:27:37,860 - INFO - loop counter = 1031
+2025-04-17 16:27:56,260 - INFO - Board uptime 24386
+2025-04-17 16:27:56,260 - INFO - loop counter = 1032
+2025-04-17 16:28:14,660 - INFO - Board uptime 24404
+2025-04-17 16:28:14,660 - INFO - loop counter = 1033
+2025-04-17 16:28:33,059 - INFO - Board uptime 24423
+2025-04-17 16:28:33,060 - INFO - loop counter = 1034
+2025-04-17 16:28:51,459 - INFO - Board uptime 24441
+2025-04-17 16:28:51,460 - INFO - loop counter = 1035
+2025-04-17 16:29:09,859 - INFO - Board uptime 24459
+2025-04-17 16:29:09,860 - INFO - loop counter = 1036
+2025-04-17 16:29:28,259 - INFO - Board uptime 24478
+2025-04-17 16:29:28,260 - INFO - loop counter = 1037
+2025-04-17 16:29:46,659 - INFO - Board uptime 24496
+2025-04-17 16:29:46,659 - INFO - loop counter = 1038
+2025-04-17 16:30:05,059 - INFO - Board uptime 24515
+2025-04-17 16:30:05,060 - INFO - loop counter = 1039
+2025-04-17 16:30:23,459 - INFO - Board uptime 24533
+2025-04-17 16:30:23,459 - INFO - loop counter = 1040
+2025-04-17 16:30:41,858 - INFO - Board uptime 24551
+2025-04-17 16:30:41,859 - INFO - loop counter = 1041
+2025-04-17 16:31:00,258 - INFO - Board uptime 24570
+2025-04-17 16:31:00,259 - INFO - loop counter = 1042
+2025-04-17 16:31:18,658 - INFO - Board uptime 24588
+2025-04-17 16:31:18,659 - INFO - loop counter = 1043
+2025-04-17 16:31:37,058 - INFO - Board uptime 24607
+2025-04-17 16:31:37,059 - INFO - loop counter = 1044
+2025-04-17 16:31:55,458 - INFO - Board uptime 24625
+2025-04-17 16:31:55,458 - INFO - loop counter = 1045
+2025-04-17 16:32:13,858 - INFO - Board uptime 24643
+2025-04-17 16:32:13,858 - INFO - loop counter = 1046
+2025-04-17 16:32:32,257 - INFO - Board uptime 24662
+2025-04-17 16:32:32,258 - INFO - loop counter = 1047
+2025-04-17 16:32:50,657 - INFO - Board uptime 24680
+2025-04-17 16:32:50,658 - INFO - loop counter = 1048
+2025-04-17 16:33:09,057 - INFO - Board uptime 24699
+2025-04-17 16:33:09,058 - INFO - loop counter = 1049
+2025-04-17 16:33:27,457 - INFO - Board uptime 24717
+2025-04-17 16:33:27,457 - INFO - loop counter = 1050
+2025-04-17 16:33:45,857 - INFO - Board uptime 24735
+2025-04-17 16:33:45,857 - INFO - loop counter = 1051
+2025-04-17 16:34:04,257 - INFO - Board uptime 24754
+2025-04-17 16:34:04,257 - INFO - loop counter = 1052
+2025-04-17 16:34:22,656 - INFO - Board uptime 24772
+2025-04-17 16:34:22,657 - INFO - loop counter = 1053
+2025-04-17 16:34:41,056 - INFO - Board uptime 24791
+2025-04-17 16:34:41,057 - INFO - loop counter = 1054
+2025-04-17 16:34:59,456 - INFO - Board uptime 24809
+2025-04-17 16:34:59,457 - INFO - loop counter = 1055
+2025-04-17 16:35:17,856 - INFO - Board uptime 24827
+2025-04-17 16:35:17,856 - INFO - loop counter = 1056
+2025-04-17 16:35:36,256 - INFO - Board uptime 24846
+2025-04-17 16:35:36,256 - INFO - loop counter = 1057
+2025-04-17 16:35:54,656 - INFO - Board uptime 24864
+2025-04-17 16:35:54,656 - INFO - loop counter = 1058
+2025-04-17 16:36:13,055 - INFO - Board uptime 24883
+2025-04-17 16:36:13,056 - INFO - loop counter = 1059
+2025-04-17 16:36:31,455 - INFO - Board uptime 24901
+2025-04-17 16:36:31,456 - INFO - loop counter = 1060
+2025-04-17 16:36:49,855 - INFO - Board uptime 24919
+2025-04-17 16:36:49,856 - INFO - loop counter = 1061
+2025-04-17 16:37:08,255 - INFO - Board uptime 24938
+2025-04-17 16:37:08,256 - INFO - loop counter = 1062
+2025-04-17 16:37:26,655 - INFO - Board uptime 24956
+2025-04-17 16:37:26,655 - INFO - loop counter = 1063
+2025-04-17 16:37:45,055 - INFO - Board uptime 24975
+2025-04-17 16:37:45,055 - INFO - loop counter = 1064
+2025-04-17 16:38:03,455 - INFO - Board uptime 24993
+2025-04-17 16:38:03,455 - INFO - loop counter = 1065
+2025-04-17 16:38:21,854 - INFO - Board uptime 25011
+2025-04-17 16:38:21,855 - INFO - loop counter = 1066
+2025-04-17 16:38:40,254 - INFO - Board uptime 25030
+2025-04-17 16:38:40,255 - INFO - loop counter = 1067
+2025-04-17 16:38:58,654 - INFO - Board uptime 25048
+2025-04-17 16:38:58,655 - INFO - loop counter = 1068
+2025-04-17 16:39:17,054 - INFO - Board uptime 25067
+2025-04-17 16:39:17,055 - INFO - loop counter = 1069
+2025-04-17 16:39:35,454 - INFO - Board uptime 25085
+2025-04-17 16:39:35,454 - INFO - loop counter = 1070
+2025-04-17 16:39:53,854 - INFO - Board uptime 25103
+2025-04-17 16:39:53,854 - INFO - loop counter = 1071
+2025-04-17 16:40:12,254 - INFO - Board uptime 25122
+2025-04-17 16:40:12,254 - INFO - loop counter = 1072
+2025-04-17 16:40:30,653 - INFO - Board uptime 25140
+2025-04-17 16:40:30,654 - INFO - loop counter = 1073
+2025-04-17 16:40:49,053 - INFO - Board uptime 25159
+2025-04-17 16:40:49,054 - INFO - loop counter = 1074
+2025-04-17 16:41:07,453 - INFO - Board uptime 25177
+2025-04-17 16:41:07,454 - INFO - loop counter = 1075
+2025-04-17 16:41:25,853 - INFO - Board uptime 25195
+2025-04-17 16:41:25,854 - INFO - loop counter = 1076
+2025-04-17 16:41:44,253 - INFO - Board uptime 25214
+2025-04-17 16:41:44,253 - INFO - loop counter = 1077
+2025-04-17 16:42:02,653 - INFO - Board uptime 25232
+2025-04-17 16:42:02,653 - INFO - loop counter = 1078
+2025-04-17 16:42:21,053 - INFO - Board uptime 25251
+2025-04-17 16:42:21,053 - INFO - loop counter = 1079
+2025-04-17 16:42:39,453 - INFO - Board uptime 25269
+2025-04-17 16:42:39,453 - INFO - loop counter = 1080
+2025-04-17 16:42:57,852 - INFO - Board uptime 25287
+2025-04-17 16:42:57,853 - INFO - loop counter = 1081
+2025-04-17 16:43:16,252 - INFO - Board uptime 25306
+2025-04-17 16:43:16,253 - INFO - loop counter = 1082
+2025-04-17 16:43:34,652 - INFO - Board uptime 25324
+2025-04-17 16:43:34,653 - INFO - loop counter = 1083
+2025-04-17 16:43:53,052 - INFO - Board uptime 25343
+2025-04-17 16:43:53,053 - INFO - loop counter = 1084
+2025-04-17 16:44:11,452 - INFO - Board uptime 25361
+2025-04-17 16:44:11,452 - INFO - loop counter = 1085
+2025-04-17 16:44:29,852 - INFO - Board uptime 25379
+2025-04-17 16:44:29,852 - INFO - loop counter = 1086
+2025-04-17 16:44:48,252 - INFO - Board uptime 25398
+2025-04-17 16:44:48,252 - INFO - loop counter = 1087
+2025-04-17 16:45:06,651 - INFO - Board uptime 25416
+2025-04-17 16:45:06,652 - INFO - loop counter = 1088
+2025-04-17 16:45:25,051 - INFO - Board uptime 25435
+2025-04-17 16:45:25,052 - INFO - loop counter = 1089
+2025-04-17 16:45:43,451 - INFO - Board uptime 25453
+2025-04-17 16:45:43,452 - INFO - loop counter = 1090
+2025-04-17 16:46:01,851 - INFO - Board uptime 25471
+2025-04-17 16:46:01,851 - INFO - loop counter = 1091
+2025-04-17 16:46:20,251 - INFO - Board uptime 25490
+2025-04-17 16:46:20,251 - INFO - loop counter = 1092
+2025-04-17 16:46:38,651 - INFO - Board uptime 25508
+2025-04-17 16:46:38,651 - INFO - loop counter = 1093
+2025-04-17 16:46:57,051 - INFO - Board uptime 25527
+2025-04-17 16:46:57,051 - INFO - loop counter = 1094
+2025-04-17 16:47:15,450 - INFO - Board uptime 25545
+2025-04-17 16:47:15,451 - INFO - loop counter = 1095
+2025-04-17 16:47:33,850 - INFO - Board uptime 25563
+2025-04-17 16:47:33,851 - INFO - loop counter = 1096
+2025-04-17 16:47:52,250 - INFO - Board uptime 25582
+2025-04-17 16:47:52,251 - INFO - loop counter = 1097
+2025-04-17 16:48:10,650 - INFO - Board uptime 25600
+2025-04-17 16:48:10,650 - INFO - loop counter = 1098
+2025-04-17 16:48:29,050 - INFO - Board uptime 25619
+2025-04-17 16:48:29,050 - INFO - loop counter = 1099
+2025-04-17 16:48:47,450 - INFO - Board uptime 25637
+2025-04-17 16:48:47,450 - INFO - loop counter = 1100
+2025-04-17 16:49:05,850 - INFO - Board uptime 25655
+2025-04-17 16:49:05,850 - INFO - loop counter = 1101
+2025-04-17 16:49:24,249 - INFO - Board uptime 25674
+2025-04-17 16:49:24,250 - INFO - loop counter = 1102
+2025-04-17 16:49:42,649 - INFO - Board uptime 25692
+2025-04-17 16:49:42,650 - INFO - loop counter = 1103

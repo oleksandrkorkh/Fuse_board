@@ -1,0 +1,92 @@
+2025-04-15 15:42:01,983 - INFO - Fuseboard API connected
+2025-04-15 15:42:03,782 - INFO - Port 0 configuration:
+2025-04-15 15:42:03,782 - INFO - Startup state 0
+2025-04-15 15:42:03,782 - INFO - Startup delay 0
+2025-04-15 15:42:03,782 - INFO - Forward current limit 5000
+2025-04-15 15:42:03,783 - INFO - Reverse current limit 500
+2025-04-15 15:42:03,783 - INFO - Current limit activation time 200
+2025-04-15 15:42:03,783 - INFO - Recovery mode 0
+2025-04-15 15:42:03,783 - INFO - Reset off time 0
+2025-04-15 15:42:03,783 - INFO - Recovery off time 0
+2025-04-15 15:42:05,582 - INFO - Port 1 configuration:
+2025-04-15 15:42:05,582 - INFO - Startup state 0
+2025-04-15 15:42:05,582 - INFO - Startup delay 0
+2025-04-15 15:42:05,582 - INFO - Forward current limit 5000
+2025-04-15 15:42:05,583 - INFO - Reverse current limit 500
+2025-04-15 15:42:05,583 - INFO - Current limit activation time 200
+2025-04-15 15:42:05,583 - INFO - Recovery mode 0
+2025-04-15 15:42:05,583 - INFO - Reset off time 0
+2025-04-15 15:42:05,583 - INFO - Recovery off time 0
+2025-04-15 15:42:07,382 - INFO - Port 2 configuration:
+2025-04-15 15:42:07,383 - INFO - Startup state 0
+2025-04-15 15:42:07,383 - INFO - Startup delay 0
+2025-04-15 15:42:07,383 - INFO - Forward current limit 5000
+2025-04-15 15:42:07,383 - INFO - Reverse current limit 500
+2025-04-15 15:42:07,384 - INFO - Current limit activation time 200
+2025-04-15 15:42:07,384 - INFO - Recovery mode 0
+2025-04-15 15:42:07,384 - INFO - Reset off time 0
+2025-04-15 15:42:07,384 - INFO - Recovery off time 0
+2025-04-15 15:42:09,182 - INFO - Port 3 configuration:
+2025-04-15 15:42:09,182 - INFO - Startup state 0
+2025-04-15 15:42:09,183 - INFO - Startup delay 0
+2025-04-15 15:42:09,183 - INFO - Forward current limit 5000
+2025-04-15 15:42:09,183 - INFO - Reverse current limit 500
+2025-04-15 15:42:09,183 - INFO - Current limit activation time 200
+2025-04-15 15:42:09,184 - INFO - Recovery mode 0
+2025-04-15 15:42:09,184 - INFO - Reset off time 0
+2025-04-15 15:42:09,184 - INFO - Recovery off time 0
+2025-04-15 15:42:10,982 - INFO - Port 4 configuration:
+2025-04-15 15:42:10,982 - INFO - Startup state 0
+2025-04-15 15:42:10,983 - INFO - Startup delay 0
+2025-04-15 15:42:10,983 - INFO - Forward current limit 10000
+2025-04-15 15:42:10,983 - INFO - Reverse current limit 500
+2025-04-15 15:42:10,983 - INFO - Current limit activation time 200
+2025-04-15 15:42:10,984 - INFO - Recovery mode 0
+2025-04-15 15:42:10,984 - INFO - Reset off time 0
+2025-04-15 15:42:10,984 - INFO - Recovery off time 0
+2025-04-15 15:42:12,782 - INFO - Port 5 configuration:
+2025-04-15 15:42:12,782 - INFO - Startup state 0
+2025-04-15 15:42:12,783 - INFO - Startup delay 0
+2025-04-15 15:42:12,783 - INFO - Forward current limit 10000
+2025-04-15 15:42:12,783 - INFO - Reverse current limit 500
+2025-04-15 15:42:12,784 - INFO - Current limit activation time 200
+2025-04-15 15:42:12,784 - INFO - Recovery mode 0
+2025-04-15 15:42:12,784 - INFO - Reset off time 0
+2025-04-15 15:42:12,785 - INFO - Recovery off time 0
+2025-04-15 15:42:14,582 - INFO - Port 6 configuration:
+2025-04-15 15:42:14,582 - INFO - Startup state 0
+2025-04-15 15:42:14,583 - INFO - Startup delay 0
+2025-04-15 15:42:14,583 - INFO - Forward current limit 15000
+2025-04-15 15:42:14,583 - INFO - Reverse current limit 500
+2025-04-15 15:42:14,584 - INFO - Current limit activation time 200
+2025-04-15 15:42:14,584 - INFO - Recovery mode 0
+2025-04-15 15:42:14,584 - INFO - Reset off time 0
+2025-04-15 15:42:14,584 - INFO - Recovery off time 0
+2025-04-15 15:42:16,382 - INFO - Port 7 configuration:
+2025-04-15 15:42:16,382 - INFO - Startup state 0
+2025-04-15 15:42:16,383 - INFO - Startup delay 0
+2025-04-15 15:42:16,383 - INFO - Forward current limit 15000
+2025-04-15 15:42:16,383 - INFO - Reverse current limit 500
+2025-04-15 15:42:16,384 - INFO - Current limit activation time 200
+2025-04-15 15:42:16,384 - INFO - Recovery mode 0
+2025-04-15 15:42:16,384 - INFO - Reset off time 0
+2025-04-15 15:42:16,384 - INFO - Recovery off time 0
+2025-04-15 15:42:16,385 - INFO - loop counter = 1
+2025-04-15 15:42:32,582 - INFO - Board uptime 21645
+2025-04-15 15:42:32,582 - INFO - loop counter = 2
+2025-04-15 15:42:48,781 - INFO - Board uptime 21661
+2025-04-15 15:42:48,782 - INFO - loop counter = 3
+2025-04-15 15:43:04,981 - INFO - Board uptime 21677
+2025-04-15 15:43:04,982 - INFO - loop counter = 4
+2025-04-15 15:43:21,181 - INFO - Board uptime 21694
+2025-04-15 15:43:21,181 - INFO - loop counter = 5
+2025-04-15 15:43:37,381 - INFO - Board uptime 21710
+2025-04-15 15:43:37,381 - INFO - loop counter = 6
+2025-04-15 15:43:53,581 - INFO - Board uptime 21726
+2025-04-15 15:43:53,581 - INFO - loop counter = 7
+2025-04-15 15:44:09,780 - INFO - Board uptime 21742
+2025-04-15 15:44:09,781 - INFO - loop counter = 8
+2025-04-15 15:44:25,980 - INFO - Board uptime 21758
+2025-04-15 15:44:25,981 - INFO - loop counter = 9
+2025-04-15 15:44:42,180 - INFO - Board uptime 21775
+2025-04-15 15:44:42,180 - INFO - loop counter = 10
