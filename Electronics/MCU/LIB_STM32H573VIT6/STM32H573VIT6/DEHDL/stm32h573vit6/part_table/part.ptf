@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32H573VIT6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32H573VIT6" (!) = "", "QFP50P1600X1600X160-100N", "Quad Flat Packages", "511-STM32H573VIT6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32H573VIT6?qs=amGC7iS6iy%2F7zrlgl6emng%3D%3D", "STM32H573VIT6", "https://www.arrow.com/en/products/stm32h573vit6/stmicroelectronics?region=nac", "High-performance, Arm Cortex-M33 with TrustZone, MCU with 2-Mbyte Flash, 640-Kbyte RAM, 250 MHz CPU", "https://www.st.com/resource/en/datasheet/stm32h573ai.pdf", "1.6 mm"
+END_PART
+
+END.
